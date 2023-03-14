@@ -1,7 +1,7 @@
 ## Plagiarism, Similarity, & Paraphrase 
 
 Below is some code to check whether a ChatGPT paraphrase of text in a communicative language learning textbook is sufficiently different 
-to not be categorized as plagiarism: 
+to not be categorized as plagiarism. The code uses the [Jaccard similarity coefficient](https://en.wikipedia.org/wiki/Jaccard_index#:~:text=The%20Jaccard%20coefficient%20is%20widely,to%20bags%2C%20i.e.%2C%20Multisets.): 
 
 ```python
 from sklearn.feature_extraction.text import CountVectorizer
