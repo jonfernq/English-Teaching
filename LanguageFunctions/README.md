@@ -15,7 +15,7 @@
 - 11 Saying something is not correct 
 - 12 Correcting someone 
 
-About attitudes
+### About attitudes
 
 - 13 Asking if someone is sure about something 
 - 14 Saying you are sure 
@@ -62,10 +62,10 @@ About attitudes
 - 56 Agreeing 
 - 57 Disagreeing 
 - 58 Saying you partly agree 
-59 Saying you are wrong and someone else is right
+- 59 Saying you are wrong and someone else is right
 - 60 Saying you have reached agreement 1
 
-About action
+### About action
 
 - 61 Offering to do something for someone 1
 - 62 Accepting an offer of help 1
@@ -97,11 +97,11 @@ About action
 - 88 Complaining 1
 - 89 Threatening 1
 - 90 Saying you are willing to do something 1
-91 Saying you are willing to do something under certain conditions
+- 91 Saying you are willing to do something under certain conditions
 - 92 Saying you are unwilling to do something 1
 - 93 Refusing to do something 1
 
-Section 2: Social formulas
+### Social formulas
 
 - 94 Starting a conversation with a stranger 
 - 95 Introducing yourself 1
@@ -135,7 +135,7 @@ Section 2: Social formulas
 - 123 Ending a conversation 2
 - 124 Saying goodbye 2
 
-Section 3: Making communication work
+### Making communication work
 
 - 125 Asking someone to say something again 2
 - 126 Checking that you have understood 2
@@ -149,7 +149,7 @@ Section 3: Making communication work
 - 134 Changing the subject 2
 - 135 Summing up 2
 
-Section 4: Finding out about language
+### Finding out about language
 
 - 136 Finding out about pronunciation 2
 - 137 Finding out about spelling 2
