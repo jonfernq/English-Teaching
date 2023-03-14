@@ -2,9 +2,9 @@
 
 ### About information
 
-1 Asking for information
-2 Asking if somcone knows about something
-3 Saying you know about something
+- 1 Asking for information
+- 2 Asking if somcone knows about something
+- 3 Saying you know about something
 4 Saying you donot know
 3 Reminding
 6 Asking about remembering
