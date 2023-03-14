@@ -15,4 +15,13 @@ she published beginning in the 1980s.
 
 - **Matching-up games** are activities that operate on the jigsaw principle, where each member of a group possesses a list of opinions or preferences, only one of which is shared by everyone in the group. The objective of the game is for the group to reach a consensus on a common preference through discussion. This consensus is then used to make a decision, such as choosing a dinner date or an afternoon activity. Unlike matching games that involve matching identical pairs of cards or pictures, matching-up games require group discussion and collaboration to arrive at a shared decision.
   
+- **Exchanging and collecting games** are activities that operate on the 'barter' principle, where players possess certain articles or cards that they are willing to exchange for others in order to complete a set. These games may be played as a whole class activity, where players freely circulate and exchange cards or articles at random, or as an inter-group activity, where players agree to collect a certain set of articles as a group and then exchange articles between groups. Alternatively, they may be played as a card game based on the 'rummy' principle. Unlike matching-up games that require group collaboration to arrive at a shared decision, exchanging and collecting games involve individual players seeking to complete a specific set of articles or cards.  
+
+- **Combining activities** are activities in which players are required to act on certain information to group themselves in various ways, such as forming families or groups of people living in the same flat. Unlike other language learning activities that involve the transfer or exchange of information, combining activities involve players using the information they possess to organize themselves into specific groups or arrangements.
+
+
+
+
+
+
   
