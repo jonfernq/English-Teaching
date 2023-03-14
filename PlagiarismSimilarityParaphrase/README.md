@@ -1,4 +1,7 @@
+## Plagiarism, Similarity, & Paraphrase 
 
+Below is some code to check whether a ChatGPT paraphrase of text in a communicative language learning textbook is sufficiently different 
+to not be categorized as plagiarism: 
 
 ```python
 from sklearn.feature_extraction.text import CountVectorizer
