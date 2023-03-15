@@ -9,6 +9,26 @@ The CEFR divides language ability into six levels, from A1 (beginner) to C2 (pro
 The CEFR is used by language schools, language testing organizations, and employers to assess and compare language ability across different contexts and countries. It is also used by language learners as a guide to set goals and track their progress in learning a new language.
 
 ---
+### Language Functions 
+
+In the context of the Common European Framework of Reference for Languages (CEFR), a language function refers to the communicative purpose or intention behind a piece of language. For example, the function of a sentence like "Can you pass the salt?" is to make a request.
+
+The CEFR organizes language functions into six broad categories, which are referred to as "can-do statements." These categories are:
+
+- **Reception:** understanding spoken and written language
+- **Production:** speaking and writing
+- **Interaction:** participating in spoken and written communication
+- **Mediation:** helping others to communicate effectively
+- **Language resources:** using grammar, vocabulary, and pronunciation effectively
+- **Strategies:** using effective learning strategies and managing one's own learning
+
+Each of these categories is further broken down into subcategories, and each subcategory is associated with a specific language function. For example, under the "Production" category, one subcategory is "Spoken production," and some of the associated language functions include giving information, expressing opinions, and making suggestions.
+
+The CEFR uses language functions as a way to describe learners' abilities and progress in a way that is more meaningful and relevant to real-world communication than traditional language proficiency levels. By focusing on what learners can do with language, rather than just what they know, the CEFR aims to provide a more comprehensive and accurate picture of language ability.
+
+---
+### CEFR Resources 
+
 > There seem to be three books that provide detailed spefications of levels: Waystage (A2), Threshold (B1), and Vantage (B2). Are there detailed specifications of all levels  in some website or publication? 
 
 Yes, in addition to the three levels you mentioned, the Common European Framework of Reference for Languages (CEFR) provides detailed descriptions and specifications for all six levels of language proficiency (A1, A2, B1, B2, C1, and C2).
