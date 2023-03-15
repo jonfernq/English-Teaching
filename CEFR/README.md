@@ -70,7 +70,7 @@ however some real work was easily discovered using aa keyword search:
 
 - [Ballier, N., Canu, S., Petitjean, C., Gasso, G., Balhana, C., Alexopoulou, T., & Gaillat, T. (2020). Machine learning for learner English: A plea for creating learner data challenges. International Journal of Learner Corpus Research, 6(1), 72-103.](https://hal.univ-rennes2.fr/hal-02496670/file/Lessons_from_the_CAp_2018_Competition-Final-Authors-version.pdf)
 
-- [Vajjala, S., & Rama, T. (2018). Experiments with universal CEFR classification. arXiv preprint arXiv:1804.06636.](https://arxiv.org/abs/1804.06636), [in aclanthology](https://aclanthology.org/W18-0515.pdf) 
+- [Vajjala, S., & Rama, T. (2018). Experiments with universal CEFR classification. arXiv preprint arXiv:1804.06636.](https://arxiv.org/abs/1804.06636), [in aclanthology](https://aclanthology.org/W18-0515.pdf) , [GitHub Code](https://github.com/nishkalavallabhi/UniversalCEFRScoring)
 
 - [Sousa, A., Ballier, N., Gaillat, T., Stearns, B., Zarrouk, M., Simpkin, A., & Bouyé, M. (2020, May). From linguistic research projects to language technology platforms: A case study in learner data. In LREC2020 (pp. 112-120).](https://hal.science/hal-02634745/file/IWLTP2020_Sousa.pdf)
 
