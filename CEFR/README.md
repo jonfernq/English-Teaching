@@ -76,3 +76,48 @@ however some real work was easily discovered using aa keyword search:
 
 - [Roos, Q. (2022). Fine-Tuning Pre-Trained Language Models for CEFR-Level and Keyword Conditioned Text Generation: Acomparison between Google’s T5 and OpenAI’s GPT-2. Thesis](https://www.diva-portal.org/smash/get/diva2:1708538/FULLTEXT01.pdf)
 
+---
+> Have ontologies for language teaching already been developed with the CEFR framework? 
+
+Yes, there have been several ontologies developed for language teaching based on the CEFR framework. These ontologies are designed to provide a formal representation of the CEFR levels and language competencies, and can be used to support language learning and assessment in a variety of contexts.
+
+One example of a CEFR-based ontology for language teaching is the EPOS ontology, which was developed as part of the European project "European Portfolio for Student Teachers of Languages" (EPOSTL). The EPOS ontology is designed to represent the language competencies required of student teachers of languages, and is based on the CEFR framework.
+
+Another example is the LLO ontology (Language Learning Objectives), which was developed by the Council of Europe to support the development of language learning materials and assessment tools. The LLO ontology is based on the CEFR levels and descriptors, and provides a formal representation of the language competencies required at each level.
+
+There are also several other ontologies and frameworks that incorporate the CEFR levels and descriptors, including the European Language Portfolio (ELP) and the Common Language Resources and Technology Infrastructure (CLARIN). These ontologies can be used to support language learning and assessment in a variety of contexts, including education, industry, and government.
+
+---
+> Are these ontologies available for public download, through GitHub for instance, and are they in a form that Python's Owlready could use? 
+
+Yes, some CEFR-based ontologies have been developed and are publicly available for download. For example, the "CEFR-informed eXtensible English Language Learning Analytics (CELLA) Framework" is an ontology developed specifically for language learning and teaching based on the CEFR. It is available on GitHub and can be used with Owlready and other ontology tools.
+
+Another example is the "CEFR Vocabulary Profile" developed by Eurocentres, which is also available on GitHub in RDF format that can be used with ontology tools like Owlready.
+
+However, it's worth noting that these ontologies may require some customization or additional work to be fully compatible with specific applications or use cases.
+
+
+---
+> So how does the Python package Owlready compare with other ontology software? What are its plus points ? 
+
+Owlready is a Python package for working with OWL ontologies, and it has several advantages over other ontology software:
+
+**Integration with Python:** Owlready is designed to integrate well with Python, allowing users to access the full power of Python libraries and tools for working with ontologies.
+
+**Simple and intuitive API:** Owlready provides a simple and intuitive API that makes it easy to create, modify, and query OWL ontologies using Python code.
+
+Support for multiple formats: Owlready supports multiple formats for loading and saving ontologies, including OWL, RDF/XML, and N-Triples.
+
+**Fast and efficient:** Owlready is optimized for performance, allowing users to work with large ontologies quickly and efficiently.
+
+**Active development:** Owlready is actively developed and maintained, with regular updates and bug fixes.
+
+**Free and open-source:** Owlready is released under the LGPL license, which means that it is free to use, modify, and distribute.
+
+Overall, Owlready is a powerful and flexible tool for working with OWL ontologies, and its integration with Python makes it an attractive option for developers and researchers who want to work with ontologies in a familiar programming environment.
+
+
+
+
+
+
