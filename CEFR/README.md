@@ -45,9 +45,9 @@ Yes, it is possible to use the CEFR to objectively assess the level of different
 
 There are various ways to do this using Python, depending on the specific task and level of analysis required. Some possible approaches include:
 
-- Using natural language processing (NLP) techniques to analyze the vocabulary, syntax, and complexity of the text or task, and compare it to the CEFR descriptors for each level. This can be done using Python libraries such as NLTK, spaCy, or TextBlob.
-- Using machine learning algorithms to classify the text or task into one of the CEFR levels based on features such as word frequency, sentence length, or readability scores. This can be done using Python libraries such as scikit-learn, TensorFlow, or Keras.
-- Using rule-based approaches to analyze the text or task against the CEFR descriptors for each level, based on criteria such as the type of language used, the complexity of ideas, or the level of inference required. This can be done using Python libraries such as rule-based engines or expert systems.
+- Using **natural language processing (NLP)** techniques to analyze the vocabulary, syntax, and complexity of the text or task, and compare it to the CEFR descriptors for each level. This can be done using Python libraries such as NLTK, spaCy, or TextBlob.
+- Using **machine learning** algorithms to classify the text or task into one of the CEFR levels based on features such as word frequency, sentence length, or readability scores. This can be done using Python libraries such as scikit-learn, TensorFlow, or Keras.
+- Using rule-based approaches to analyze the text or task against the CEFR descriptors for each level, based on criteria such as the type of language used, the complexity of ideas, or the level of inference required. This can be done using Python libraries such as **rule-based engines** or **expert systems**.
 
   It's worth noting that while these approaches can provide a rough estimate of the level of a given text or task, they are not always accurate or reliable, and may need to be combined with human judgment and interpretation. Additionally, the CEFR is intended to be used as a flexible framework for describing language proficiency, and should not be used as a rigid benchmark or standard for all language learning tasks and contexts.
 
@@ -56,11 +56,11 @@ There are various ways to do this using Python, depending on the specific task a
 
 Yes, there are Python packages available for assessing the level of text or language learning tasks according to the CEFR. Here are a few examples:
 
-- CEFRank: a Python package for estimating the CEFR level of texts based on statistical analysis of features such as word frequency, sentence length, and complexity. It uses a machine learning model trained on a corpus of CEFR-aligned texts to make predictions. CEFRank is available on PyPI and GitHub.
+- **CEFRank:** a Python package for estimating the CEFR level of texts based on statistical analysis of features such as word frequency, sentence length, and complexity. It uses a machine learning model trained on a corpus of CEFR-aligned texts to make predictions. CEFRank is available on PyPI and GitHub.
 
-- CEFR-ML: a Python package for automatically annotating language learning materials with CEFR levels. It uses a machine learning approach based on support vector machines (SVMs) to classify tasks according to the CEFR descriptors. CEFR-ML is available on GitHub.
+- **CEFR-ML:** a Python package for automatically annotating language learning materials with CEFR levels. It uses a machine learning approach based on support vector machines (SVMs) to classify tasks according to the CEFR descriptors. CEFR-ML is available on GitHub.
 
-- CEFR-annotator: a Python package for manually annotating texts or tasks with CEFR levels using a simple web interface. It allows multiple annotators to collaborate and compare their annotations, and provides basic analytics and visualization tools. CEFR-annotator is available on GitHub.
+- **CEFR-annotator:** a Python package for manually annotating texts or tasks with CEFR levels using a simple web interface. It allows multiple annotators to collaborate and compare their annotations, and provides basic analytics and visualization tools. CEFR-annotator is available on GitHub.
 
 It's worth noting that these packages may require some customization or adaptation to work with specific languages or domains, and should be used with caution and critical evaluation. Additionally, the results obtained from these tools should be interpreted as indicative rather than definitive, and should not be used as the sole basis for language learning assessment or evaluation.
 
