@@ -1,6 +1,6 @@
 ## Task-Based Learning (TBL)
 
-**Task-based learning (TBL)** is an approach to language learning that emphasizes the use of authentic language in meaningful tasks or activities. The idea behind TBL is that learners are more motivated to learn and retain new language when they are engaged in tasks that are relevant to their lives and interests.
+[**Task-based learning (TBL)**](https://en.wikipedia.org/wiki/Task-based_language_learning) is an approach to language learning that emphasizes the use of authentic language in meaningful tasks or activities. The idea behind TBL is that learners are more motivated to learn and retain new language when they are engaged in tasks that are relevant to their lives and interests.
 
 In TBL, learners work on tasks that require them to use language to achieve a specific goal or objective. These tasks can be anything from planning a trip to negotiating a business deal. Learners are encouraged to use language in a natural, communicative way, and are given opportunities to practice and receive feedback on their language use.
 
@@ -28,11 +28,11 @@ According to Jane Willis' "A Framework for Task-Based Learning", the components 
 
 - **Task cycle:** This is the core of the framework, and it involves the learners performing the task. The task should be designed to be communicative and should require the learners to use the target language in a meaningful way. The task cycle typically consists of three phases:
 
-a. Task planning: In this phase, the learners plan how they will complete the task, including deciding who will do what, and how they will use the target language.
+a. **Task planning:** In this phase, the learners plan how they will complete the task, including deciding who will do what, and how they will use the target language.
 
-b. Task performance: This is the stage in which the learners carry out the task.
+b. **Task performance:** This is the stage in which the learners carry out the task.
 
-c. Task evaluation: After completing the task, the learners evaluate their performance and reflect on what they have learned.
+c. **Task evaluation:** After completing the task, the learners evaluate their performance and reflect on what they have learned.
 
 **Language focus:** This is the stage in which the teacher provides explicit instruction on specific language points that arose during the task cycle. The language focus stage may include activities such as grammar and vocabulary instruction, error correction, and feedback.
 
