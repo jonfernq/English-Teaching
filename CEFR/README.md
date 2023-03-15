@@ -117,26 +117,6 @@ Another example is the ["CEFR Vocabulary Profile"](https://github.com/openlangua
 However, it's worth noting that these ontologies may require some customization or additional work to be fully compatible with specific applications or use cases.
 
 
----
-> So how does the Python package Owlready compare with other ontology software? What are its plus points ? 
-
-Owlready is a Python package for working with OWL ontologies, and it has several advantages over other ontology software:
-
-**Integration with Python:** Owlready is designed to integrate well with Python, allowing users to access the full power of Python libraries and tools for working with ontologies.
-
-**Simple and intuitive API:** Owlready provides a simple and intuitive API that makes it easy to create, modify, and query OWL ontologies using Python code.
-
-Support for multiple formats: Owlready supports multiple formats for loading and saving ontologies, including OWL, RDF/XML, and N-Triples.
-
-**Fast and efficient:** Owlready is optimized for performance, allowing users to work with large ontologies quickly and efficiently.
-
-**Active development:** Owlready is actively developed and maintained, with regular updates and bug fixes.
-
-**Free and open-source:** Owlready is released under the LGPL license, which means that it is free to use, modify, and distribute.
-
-Overall, Owlready is a powerful and flexible tool for working with OWL ontologies, and its integration with Python makes it an attractive option for developers and researchers who want to work with ontologies in a familiar programming environment.
-
-
 
 
 
