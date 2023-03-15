@@ -1,6 +1,12 @@
 ## Game Cards
 
-First Pass: 
+Communicative games and activities consist of sharing information.
+This information to be shared during the activity is recorded on game cards 
+distributed to students: 
+
+![gamecards](https://user-images.githubusercontent.com/68504324/225252894-91749fd4-91d2-4ff8-af00-71c92328b265.jpg)
+
+Here is a first pass at printable HTML: 
 
 ```html
 <!DOCTYPE html>
