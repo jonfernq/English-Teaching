@@ -90,9 +90,9 @@ There are also several other ontologies and frameworks that incorporate the CEFR
 ---
 > Are these ontologies available for public download, through GitHub for instance, and are they in a form that Python's Owlready could use? 
 
-Yes, some CEFR-based ontologies have been developed and are publicly available for download. For example, the "CEFR-informed eXtensible English Language Learning Analytics (CELLA) Framework" is an ontology developed specifically for language learning and teaching based on the CEFR. It is available on GitHub and can be used with Owlready and other ontology tools.
+Yes, some CEFR-based ontologies have been developed and are publicly available for download. For example, the "CEFR-informed eXtensible English Language Learning Analytics (CELLA) Framework" is an ontology developed specifically for language learning and teaching based on the CEFR. It is available on GitHub and can be used with Owlready and other ontology tools. [**Note**: Does not seem to exist based on a web-search]
 
-Another example is the "CEFR Vocabulary Profile" developed by Eurocentres, which is also available on GitHub in RDF format that can be used with ontology tools like Owlready.
+Another example is the ["CEFR Vocabulary Profile"](https://github.com/openlanguageprofiles/olp-en-cefrj) developed by Eurocentres, which is also available on GitHub in RDF format that can be used with ontology tools like Owlready.
 
 However, it's worth noting that these ontologies may require some customization or additional work to be fully compatible with specific applications or use cases.
 
