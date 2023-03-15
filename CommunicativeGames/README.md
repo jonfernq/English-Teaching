@@ -19,6 +19,8 @@ she published beginning in the 1980s.
 
 - **Combining activities** are activities in which players are required to act on certain information to group themselves in various ways, such as forming families or groups of people living in the same flat. Unlike other language learning activities that involve the transfer or exchange of information, combining activities involve players using the information they possess to organize themselves into specific groups or arrangements.
 
+[**Paraphrased from:** Hadfield, Jill. 1984. Elementary Communication Games. GB: Nelson.]
+
 
 
 
