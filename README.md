@@ -6,3 +6,4 @@ English teaching materials &amp; Python code to automate the production of teach
 - [Communicative Games](https://github.com/jonfernq/English-Teaching/blob/main/CommunicativeGames/README.md) 
 - [Plagiarism, Similarity, & Paraphrase of Texts](https://github.com/jonfernq/English-Teaching/tree/main/PlagiarismSimilarityParaphrase) 
 - [Language Functions](https://github.com/jonfernq/English-Teaching/blob/main/LanguageFunctions/README.md) 
+- [Bibliography](https://github.com/jonfernq/English-Teaching/blob/main/bibliography.md) 
