@@ -22,8 +22,6 @@ What is the name of the official CEFR publication that you refer to above?
 
 The official CEFR publication is called the ["Common European Framework of Reference for Languages: Learning, teaching, assessment"](https://www.researchgate.net/publication/338178234_Council_of_Europe_2018_Common_European_Framework_of_Reference_for_Languages_Learning_Teaching_Assessment_Companion_Volume_with_New_Descriptors_Strasbourg_Council_of_Europe_Publishing_Authors_B_North_E) [also: [update](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16809ea0d4), [documentation site](https://www.coe.int/en/web/common-european-framework-reference-languages/documents), & [main site](https://www.coe.int/en/web/common-european-framework-reference-languages)]  and is commonly known as the "CEFR" or "CEFR document". It was first published by the Council of Europe in 2001 and has since been revised and updated. The latest version was published in 2018 and is available for free download on the Council of Europe's website.
 
-[Note: In the [](https://www.coe.int/en/web/common-european-framework-reference-languages/documents)]
-
 ---
 > Most textbooks use a level classification system such as Starter, Beginner, Lower Intermediate, Intermediate, Advanced Intermediate, Advanced... How does the CEFR level system map onto this ? 
 
@@ -73,6 +71,8 @@ however some real work was easily discovered using aa keyword search:
 - [Ballier, N., Canu, S., Petitjean, C., Gasso, G., Balhana, C., Alexopoulou, T., & Gaillat, T. (2020). Machine learning for learner English: A plea for creating learner data challenges. International Journal of Learner Corpus Research, 6(1), 72-103.](https://hal.univ-rennes2.fr/hal-02496670/file/Lessons_from_the_CAp_2018_Competition-Final-Authors-version.pdf)
 
 - [Vajjala, S., & Rama, T. (2018). Experiments with universal CEFR classification. arXiv preprint arXiv:1804.06636.](https://arxiv.org/abs/1804.06636), [in aclanthology](https://aclanthology.org/W18-0515.pdf) 
+
+- [Sousa, A., Ballier, N., Gaillat, T., Stearns, B., Zarrouk, M., Simpkin, A., & Bouyé, M. (2020, May). From linguistic research projects to language technology platforms: A case study in learner data. In LREC2020 (pp. 112-120).](https://hal.science/hal-02634745/file/IWLTP2020_Sousa.pdf)
 
 
 
