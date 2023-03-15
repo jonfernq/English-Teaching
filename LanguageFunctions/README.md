@@ -157,4 +157,4 @@
 - 139 Finding out about meaning 2
 - 140 Finding out about appropriateness 2
 
-[Table of Contents of: Blundell Jon Jonathan Higgens and N. M. G Middlemiss. 1982. *Function in English.* Oxford: University Press.] 
+[**Table of Contents of:** Blundell Jon Jonathan Higgens and N. M. G Middlemiss. 1982. *Function in English.* Oxford: University Press.] 
