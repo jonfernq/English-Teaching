@@ -2,7 +2,7 @@
 
 > What is the CEFR (Common European Framework of Reference for Languages) ? 
 
-  The Common European Framework of Reference for Languages (CEFR) is a framework for describing language ability in a way that is consistent and recognized across Europe. It was developed by the Council of Europe and is widely used in language education, testing, and assessment.
+The **Common European Framework of Reference for Languages (CEFR)** is a framework for describing language ability in a way that is consistent and recognized across Europe. It was developed by the Council of Europe and is widely used in language education, testing, and assessment.
 
 The CEFR divides language ability into six levels, from A1 (beginner) to C2 (proficient). Each level is described in terms of what a learner can do in the language, rather than just their knowledge of grammar and vocabulary. For example, at the A1 level, a learner can understand and use basic phrases and expressions related to everyday situations, while at the C2 level, a learner can understand and express complex ideas and opinions fluently and accurately.
 
@@ -11,7 +11,7 @@ The CEFR is used by language schools, language testing organizations, and employ
 ---
 > There seem to be three books that provide detailed spefications of levels: Waystage (A2), Threshold (B1), and Vantage (B2). Are there detailed specifications of all levels  in some website or publication? 
 
-  Yes, in addition to the three levels you mentioned, the Common European Framework of Reference for Languages (CEFR) provides detailed descriptions and specifications for all six levels of language proficiency (A1, A2, B1, B2, C1, and C2).
+Yes, in addition to the three levels you mentioned, the Common European Framework of Reference for Languages (CEFR) provides detailed descriptions and specifications for all six levels of language proficiency (A1, A2, B1, B2, C1, and C2).
 
 These descriptions and specifications can be found in the official CEFR publication, which is available for free download on the Council of Europe's website. The publication provides a detailed description of what learners can do at each level in terms of their ability to understand and use the language in different contexts, such as socializing, work, and academic settings. It also includes a range of examples and illustrative descriptors to help learners and teachers understand what language ability looks like at each level.
 
@@ -20,7 +20,9 @@ In addition to the official CEFR publication, there are also many resources avai
 ---
 What is the name of the official CEFR publication that you refer to above? 
 
-The official CEFR publication is called the "Common European Framework of Reference for Languages: Learning, teaching, assessment" and is commonly known as the "CEFR" or "CEFR document". It was first published by the Council of Europe in 2001 and has since been revised and updated. The latest version was published in 2018 and is available for free download on the Council of Europe's website.
+The official CEFR publication is called the ["Common European Framework of Reference for Languages: Learning, teaching, assessment"](https://www.researchgate.net/publication/338178234_Council_of_Europe_2018_Common_European_Framework_of_Reference_for_Languages_Learning_Teaching_Assessment_Companion_Volume_with_New_Descriptors_Strasbourg_Council_of_Europe_Publishing_Authors_B_North_E) [also: [update](https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/16809ea0d4), [documentation site](https://www.coe.int/en/web/common-european-framework-reference-languages/documents), & [main site](https://www.coe.int/en/web/common-european-framework-reference-languages)]  and is commonly known as the "CEFR" or "CEFR document". It was first published by the Council of Europe in 2001 and has since been revised and updated. The latest version was published in 2018 and is available for free download on the Council of Europe's website.
+
+[Note: In the [](https://www.coe.int/en/web/common-european-framework-reference-languages/documents)]
 
 ---
 > Most textbooks use a level classification system such as Starter, Beginner, Lower Intermediate, Intermediate, Advanced Intermediate, Advanced... How does the CEFR level system map onto this ? 
