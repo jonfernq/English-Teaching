@@ -8,26 +8,10 @@ TBL is often contrasted with more traditional language teaching approaches that 
 
 Overall, TBL is a learner-centered approach that aims to develop learners' communicative competence and language proficiency through engaging, meaningful tasks.
 
-### Language Functions 
-
-In the context of the Common European Framework of Reference for Languages (CEFR), a language function refers to the communicative purpose or intention behind a piece of language. For example, the function of a sentence like "Can you pass the salt?" is to make a request.
-
-The CEFR organizes language functions into six broad categories, which are referred to as "can-do statements." These categories are:
-
-- **Reception:** understanding spoken and written language
-- **Production:** speaking and writing
-- **Interaction:** participating in spoken and written communication
-- **Mediation:** helping others to communicate effectively
-- **Language resources:** using grammar, vocabulary, and pronunciation effectively
-- **Strategies:** using effective learning strategies and managing one's own learning
-
-Each of these categories is further broken down into subcategories, and each subcategory is associated with a specific language function. For example, under the "Production" category, one subcategory is "Spoken production," and some of the associated language functions include giving information, expressing opinions, and making suggestions.
-
-The CEFR uses language functions as a way to describe learners' abilities and progress in a way that is more meaningful and relevant to real-world communication than traditional language proficiency levels. By focusing on what learners can do with language, rather than just what they know, the CEFR aims to provide a more comprehensive and accurate picture of language ability.
-
 ### TBL Resources 
 
-So Elementary Communication Games by Jill Hadfield provides many tbl tasks for different language functions, do you know where there is a large collection or compendium of tbl tasks? 
+> So Elementary Communication Games by Jill Hadfield provides many tbl tasks for different language functions, do you know where there is a large collection or compendium of TBL tasks? 
+
 There are several resources available that provide a large collection of task-based learning (TBL) activities for different language functions. Here are a few examples:
 
 The book "Task-Based Language Teaching: A Practical Approach" by David Nunan provides a comprehensive guide to TBL, including a wide range of sample tasks and activities for different language functions.
