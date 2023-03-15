@@ -30,7 +30,7 @@ These resources provide a wealth of TBL activities and ideas for teachers and le
 
 > Worksheets & Printed Materials  
 
-Don't you need worksheets or cards with information on it, to create 'information gaps', to do these tasks, or is it possible to do them without photocopied materials, with just a sheet of A$ paper for instance, or just using the board to describe what to do? 
+Don't you need worksheets or cards with information on it, to create 'information gaps', to do these tasks, or is it possible to do them without photocopied materials, with just a sheet of A4 paper for instance, or just using the board to describe what to do? 
 
 It is definitely possible to create and carry out task-based learning (TBL) activities without photocopied materials or cards. While such materials can be useful in creating "information gaps" or other challenges for learners to overcome, they are not essential to the TBL approach.
 
