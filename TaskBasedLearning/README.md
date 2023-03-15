@@ -1,6 +1,6 @@
 ## Task-Based Learning (TBL)
 
-Task-based learning (TBL) is an approach to language learning that emphasizes the use of authentic language in meaningful tasks or activities. The idea behind TBL is that learners are more motivated to learn and retain new language when they are engaged in tasks that are relevant to their lives and interests.
+**Task-based learning (TBL)** is an approach to language learning that emphasizes the use of authentic language in meaningful tasks or activities. The idea behind TBL is that learners are more motivated to learn and retain new language when they are engaged in tasks that are relevant to their lives and interests.
 
 In TBL, learners work on tasks that require them to use language to achieve a specific goal or objective. These tasks can be anything from planning a trip to negotiating a business deal. Learners are encouraged to use language in a natural, communicative way, and are given opportunities to practice and receive feedback on their language use.
 
@@ -9,6 +9,8 @@ TBL is often contrasted with more traditional language teaching approaches that 
 Overall, TBL is a learner-centered approach that aims to develop learners' communicative competence and language proficiency through engaging, meaningful tasks.
 
 ---
+### Components of Task Cycle 
+
 > Do you know Jane Willis' A Framework for Task-Based Learning ? 
 
 Yes, I am familiar with Jane Willis' "A Framework for Task-Based Learning" (Longman, 1996). It is a well-known book that presents a systematic approach to designing and implementing task-based language teaching (TBLT) programs.
@@ -58,20 +60,33 @@ The duration of each component in the task cycle may vary depending on factors s
 
 To create a formal form for a task-based learning lesson, the following fields could be included:
 
-Title of the task
-Task overview: a brief description of the task, its purpose and expected outcome
-Task cycle components: a list of the components of the task cycle, including:
-Pre-task: activities or questions to introduce the topic and prepare students for the task
-Task cycle: the task itself and the follow-up activities
-Task: the main activity or project that students will work on
-Planning: time for students to plan their task
-Report: time for students to report back on their task to the class
-Analysis: time for the teacher and students to analyze and evaluate the task and language used
-Language focus: a section to outline any specific language points or skills that will be focused on during the task
-Assessment: a brief explanation of how the task will be assessed or evaluated
-Materials and resources: a list of any materials or resources needed for the task, such as handouts, videos, or equipment
-Timing: an estimate of the time required for each component of the task cycle, as well as the total time for the lesson
-Teacher notes: any additional notes or instructions for the teacher, such as tips for facilitating the task or suggestions for modifications based on student level or ability.
+**Title of the task**
+
+**Task overview:** a brief description of the task, its purpose and expected outcome
+
+**Task cycle components:** a list of the components of the task cycle, including:
+
+**Pre-task:** activities or questions to introduce the topic and prepare students for the task
+
+**Task cycle:** the task itself and the follow-up activities
+
+**Task:** the main activity or project that students will work on
+
+**Planning:** time for students to plan their task
+
+**Report:** time for students to report back on their task to the class
+
+**Analysis:** time for the teacher and students to analyze and evaluate the task and language used
+
+**Language focus:** a section to outline any specific language points or skills that will be focused on during the task
+
+**Assessment:** a brief explanation of how the task will be assessed or evaluated
+
+**Materials and resources:** a list of any materials or resources needed for the task, such as handouts, videos, or equipment
+
+**Timing:** an estimate of the time required for each component of the task cycle, as well as the total time for the lesson
+
+**Teacher notes:** any additional notes or instructions for the teacher, such as tips for facilitating the task or suggestions for modifications based on student level or ability.
 
 By completing this form, teachers can plan and organize their task-based lessons more effectively and ensure that all necessary components are included.
 
