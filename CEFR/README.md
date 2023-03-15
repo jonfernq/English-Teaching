@@ -64,7 +64,11 @@ Yes, there are Python packages available for assessing the level of text or lang
 
 It's worth noting that these packages may require some customization or adaptation to work with specific languages or domains, and should be used with caution and critical evaluation. Additionally, the results obtained from these tools should be interpreted as indicative rather than definitive, and should not be used as the sole basis for language learning assessment or evaluation.
 
-- [CEFR GitHub Repositories](https://github.com/topics/cefr) 
+--- 
+As is often the case, some of these references seem to be made up, 
+however some real work was easily discovered using aa keyword search: 
+
+- [List of CEFR GitHub Repositories](https://github.com/topics/cefr) 
 
 - [Ballier, N., Canu, S., Petitjean, C., Gasso, G., Balhana, C., Alexopoulou, T., & Gaillat, T. (2020). Machine learning for learner English: A plea for creating learner data challenges. International Journal of Learner Corpus Research, 6(1), 72-103.](https://hal.univ-rennes2.fr/hal-02496670/file/Lessons_from_the_CAp_2018_Competition-Final-Authors-version.pdf)
 
