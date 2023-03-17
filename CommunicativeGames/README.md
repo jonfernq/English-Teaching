@@ -29,6 +29,12 @@ she published beginning in the 1980s.
 
 The activity is called "Shopping Lists" and is a whole class exchange and collection game that aims to improve students' ability to ask for things in shops. Each student is given a shopping list and four randomly selected picture cards. The object of the game is for each student to acquire the items on their list by moving around the class and asking other students for the things they need, specifying the quantities they want. For example, "Have you got any raspberry jam? Yes, how much do you want? Two jars." The game focuses on essential vocabulary related to food, pharmacy items, amounts, containers, and numbers and weights.
 
+#### 38. Holiday Quiz
+- **Activity Type:** Guessing Game
+- **Language Function:** Asking about past events 
+
+The Holiday Quiz is a small group guessing game activity in which students take turns to pick up picture cards from a pile and the other players in the group ask questions to guess where the player holding the card went for their last holiday. The aim is to practice asking about past events using the language function "Did you...?" and responding with "Yes, I did/No, I didn't." The essential vocabulary for this activity includes everyday activities such as eat, see, visit, and go to.
+
 #### 39. Robert's busy day
 - **Activity Type:** Information Gap
 - **Language Function:** Asking or talking about future arrangements or past events 
