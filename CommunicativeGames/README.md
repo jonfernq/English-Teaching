@@ -23,7 +23,15 @@ she published beginning in the 1980s.
 
 ### Activities
 
+#### 9. Shopping Lists
+**Activity Type:** Exchanging and Collecting
+**Language Function:** Asking for things in shops 
+
+The activity is called "Shopping Lists" and is a whole class exchange and collection game that aims to improve students' ability to ask for things in shops. Each student is given a shopping list and four randomly selected picture cards. The object of the game is for each student to acquire the items on their list by moving around the class and asking other students for the things they need, specifying the quantities they want. For example, "Have you got any raspberry jam? Yes, how much do you want? Two jars." The game focuses on essential vocabulary related to food, pharmacy items, amounts, containers, and numbers and weights.
+
 #### 39. Robert's busy day
+**Activity Type:** Information Gap
+**Language Function:** Asking or talking about future arrangements or past events 
 
 The activity is called "Robert's busy day" and it is a communicative language learning activity that employs an information gap to get students exchanging information. The objective of the game is to fill in all the diary entries of Robert's diary.
 
