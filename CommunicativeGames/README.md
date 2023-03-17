@@ -23,6 +23,12 @@ she published beginning in the 1980s.
 
 ### Activities
 
+#### 1. Looking for Mr. X
+- **Activity Type:** Information Search 
+- **Language Function:** Asking for and giving personal information 
+- 
+The activity is called "Looking for Mr X" and it is a whole class information search game. The goal is for students to complete a form about a person named Mr X by asking each other questions about his personal information, such as his name, address, occupation, nationality, and marital status. The students are only allowed to ask one question at a time before moving on to another student. They may pass on information that they have obtained from other students, as well as the information that was originally on their form. The essential vocabulary includes words such as name, address, nationality, telephone number, occupation, marital status, and road numbers up to 20.
+
 #### 9. Shopping Lists
 - **Activity Type:** Exchanging and Collecting
 - **Language Function:** Asking for things in shops 
