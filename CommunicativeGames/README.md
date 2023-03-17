@@ -21,6 +21,24 @@ she published beginning in the 1980s.
 
 [**Paraphrased from:** Hadfield, Jill. 1984. Elementary Communication Games. GB: Nelson.]
 
+### Activities
+
+#### 39. Robert's busy day
+
+The activity is called "Robert's busy day" and it is a communicative language learning activity that employs an information gap to get students exchanging information. The objective of the game is to fill in all the diary entries of Robert's diary.
+
+Each student receives a page of Robert's diary with some entries missing. They must move around the class and ask other students questions such as "What is he doing/did he do at... o'clock?" to obtain the missing information. Students may pass on the information they have obtained from other students as well as the information that was originally on their page.
+
+For example, a student might ask "What did Robert do at 9 o'clock?" and another student might respond "He had coffee with a friend." The first student can then write that information in their diary entry for 9 o'clock.
+
+The activity focuses on practicing the language function of asking and talking about future arrangements or past events and the lexical area of social activities. Essential vocabulary includes catch, have (coffee/a drink/lunch/tea), meet, and go to.
+
+A similar game may be played using information about the students' own activities of the previous day or their arrangements for the next day. Students can write a short account of their activities and use the information to prepare a short questionnaire to interview each other and find the answers to the questions.
+
+Overall, the activity promotes communication and collaboration between students while practicing language skills in a fun and interactive way.
+
+[**Paraphrased from:** Hadfield, Jill. 1984. Elementary Communication Games. GB: Nelson.]
+
 
 
 
