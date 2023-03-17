@@ -26,7 +26,7 @@ she published beginning in the 1980s.
 #### 1. Looking for Mr. X
 - **Activity Type:** Information Search 
 - **Language Function:** Asking for and giving personal information 
-- 
+
 The activity is called "Looking for Mr X" and it is a whole class information search game. The goal is for students to complete a form about a person named Mr X by asking each other questions about his personal information, such as his name, address, occupation, nationality, and marital status. The students are only allowed to ask one question at a time before moving on to another student. They may pass on information that they have obtained from other students, as well as the information that was originally on their form. The essential vocabulary includes words such as name, address, nationality, telephone number, occupation, marital status, and road numbers up to 20.
 
 #### 9. Shopping Lists
@@ -34,6 +34,13 @@ The activity is called "Looking for Mr X" and it is a whole class information se
 - **Language Function:** Asking for things in shops 
 
 The activity is called "Shopping Lists" and is a whole class exchange and collection game that aims to improve students' ability to ask for things in shops. Each student is given a shopping list and four randomly selected picture cards. The object of the game is for each student to acquire the items on their list by moving around the class and asking other students for the things they need, specifying the quantities they want. For example, "Have you got any raspberry jam? Yes, how much do you want? Two jars." The game focuses on essential vocabulary related to food, pharmacy items, amounts, containers, and numbers and weights.
+
+
+#### 11. Home Sweet Home
+- **Activity Type:** Matching
+- **Language Function:** Describing houses and flats (apartments) 
+- 
+The activity is called "Home sweet home" and it is a whole class matching game that focuses on describing houses and flats. Each student is given a picture of their old house and a picture of their new house, and the goal is to find the person who now lives in the house they used to live in by asking questions about their present houses such as "What's your house like?" or "Has it got a...?". This activity encourages students to use descriptive language and engage in conversation with their classmates.
 
 #### 38. Holiday Quiz
 - **Activity Type:** Guessing Game
