@@ -62,6 +62,12 @@ And so on.
 
 The activity is called 'Crossroads' and is an information gap activity. Students work in small groups of three or four and are given a set of plans of a public area with missing names of shops and public facilities. The students must ask and answer questions in English about the location of the places to fill in the missing information. Each player takes turns to offer information about their plan to the group and the others fill in the information on their own plan. The game ends when all players have completed their plans. Example exchange: "Where is the post office?" - "The post office is next to the bank."
 
+#### 8. Recipe Game 
+- **Activity Type:** exchanging and collecting
+- **Language Function:** Asking for things 
+
+The activity is called "The Recipes Game" and involves the whole class divided into four groups. Each group is given a recipe and five randomly selected ingredients cards. The groups must exchange cards with other groups to obtain the exact ingredients and amounts necessary to make their recipe. They must use the language of asking for things and specifying quantities. The first group to obtain all the necessary ingredients for their recipe wins. Examples of students carrying out information exchange would be asking other groups if they have the necessary ingredients and how much they have, and negotiating exchanges.
+
 #### 9. Shopping Lists
 - **Activity Type:** Exchanging and Collecting
 - **Language Function:** Asking for things in shops 
