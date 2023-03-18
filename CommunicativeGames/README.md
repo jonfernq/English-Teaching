@@ -1,7 +1,9 @@
 ## Communication Games
 
-English teacher Jill Hadfield popularized the idea of 'communication games' is a series of photocopiable teaching materials books 
-she published beginning in the 1980s. 
+English teacher Jill Hadfield popularized the idea of 'communication games' in a series of photocopiable teaching materials books 
+she published beginning in the 1980s. It is the purpose here to extend these invaluable collections for English language teaching
+to new combinations of language function and vocabulary and repurpose them so that they can be used in new languages such as my 
+favorites Sanskrit, Burmese, and Thai. Also there is the possibility of employing these activities with a chatbot that is worth exploring :) 
 
 ### Activities
 
