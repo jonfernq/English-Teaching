@@ -42,6 +42,12 @@ The activity is called "Shopping Lists" and is a whole class exchange and collec
 - 
 The activity is called "Home sweet home" and it is a whole class matching game that focuses on describing houses and flats. Each student is given a picture of their old house and a picture of their new house, and the goal is to find the person who now lives in the house they used to live in by asking questions about their present houses such as "What's your house like?" or "Has it got a...?". This activity encourages students to use descriptive language and engage in conversation with their classmates.
 
+#### 21. Wandering Tourists
+- **Activity Type:** Simulation
+- **Language Function:** Asking for tourist information 
+
+The "Wandering Tourists" activity is a simulation game designed to help students practice asking for tourist information in English. The game involves dividing the class into two groups: wandering tourists and information providers (bank clerk, hotel receptionist, railway booking clerk, and tourist information officer). Each student is given a task sheet or an information card with a specific role or instruction to follow. The tourists are required to ask for directions and information from the information providers to complete their tasks. The game aims to simulate real-life tourist situations and encourages communication among students. Examples of information exchange include asking for directions, asking for prices, and reserving a hotel room.
+
 #### 38. Holiday Quiz
 - **Activity Type:** Guessing Game
 - **Language Function:** Asking about past events 
