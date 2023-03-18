@@ -74,12 +74,35 @@ The activity is called "The Recipes Game" and involves the whole class divided i
 
 The activity is called "Shopping Lists" and is a whole class exchange and collection game that aims to improve students' ability to ask for things in shops. Each student is given a shopping list and four randomly selected picture cards. The object of the game is for each student to acquire the items on their list by moving around the class and asking other students for the things they need, specifying the quantities they want. For example, "Have you got any raspberry jam? Yes, how much do you want? Two jars." The game focuses on essential vocabulary related to food, pharmacy items, amounts, containers, and numbers and weights.
 
+#### 10. Shopping around
+- **Activity Type:** information gap 
+- **Language Function:** asking and saying how much things cost 
+
+The activity is called "Shopping around." Students play in small groups and have to ask and say how much things cost by using the exponent "How much is/are ...?" They are given a shopping list and a price list and have to decide where to buy each item on their lists by asking the price of each item in turn from the other supermarkets, comparing it with their own price list and deciding which is the cheapest. They should then calculate the amount spent and write it beside the item on their list. The game may be done as a race between the different groups in the class to improve fluency in dealing with numbers in English.
 
 #### 11. Home Sweet Home
 - **Activity Type:** Matching
 - **Language Function:** Describing houses and flats (apartments) 
 - 
 The activity is called "Home sweet home" and it is a whole class matching game that focuses on describing houses and flats. Each student is given a picture of their old house and a picture of their new house, and the goal is to find the person who now lives in the house they used to live in by asking questions about their present houses such as "What's your house like?" or "Has it got a...?". This activity encourages students to use descriptive language and engage in conversation with their classmates.
+
+#### 12. My Home Town
+- **Activity Type:** Matching
+- **Language Function:** Describing places
+
+The "My Home Town" activity is a whole class matching game where students read descriptions of towns and match them to the correct location on a map. Students then ask each other questions about their hometowns to identify the other towns on the map. For example, they may ask "Where do you come from?" or "What's it like?" to gather information. Another variation of the game involves students writing their own descriptions of their hometowns and creating a questionnaire to ask their classmates to identify the different locations on the map. The activity focuses on practicing the function of describing places, as well as using compass points and adjectives to describe towns.
+
+#### 13. Lost Umbrellas 
+- **Activity Type:** Collecting and exchanging
+- **Language Function:** Collecting and exchanging
+
+The activity is called "Lost Umbrellas" and is a whole-class collecting and exchanging game. The students are given large pictures of objects and small pictures of umbrellas, hats, bags, and glasses. They sit in pairs and imagine they went to a party where they took the wrong objects home. The objective of the game is to find the four missing possessions by describing their own possessions to their partners and exchanging the corresponding small pictures. For example, a student might say, "My umbrella is big and red with white spots," and the partner might have a small picture of a big red and white spotted umbrella. They continue until they have found all four missing possessions.
+
+#### 14. Family Portraits 
+- **Activity Type:** Information gap 
+- **Language Function:** Describing people's faces
+
+The "Family portraits" activity is a small group information gap game where students describe people's faces to determine which family group belongs to each player and which face belongs to each silhouette. The game can be played in groups of three or four, and students are given a set of pictures representing their own family and the families of the other players. The students take turns describing their families and identifying which photos belong to each family. The game helps practice describing people's physical appearance and can be adapted to use the students' own family photos. Example of information exchange: "What's your sister like? She's tall and has long curly hair. Is she the one with the glasses in the picture?"
 
 #### 21. Wandering Tourists
 - **Activity Type:** Simulation
