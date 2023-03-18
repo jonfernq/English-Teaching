@@ -29,6 +29,20 @@ she published beginning in the 1980s.
 
 The activity is called "Looking for Mr X" and it is a whole class information search game. The goal is for students to complete a form about a person named Mr X by asking each other questions about his personal information, such as his name, address, occupation, nationality, and marital status. The students are only allowed to ask one question at a time before moving on to another student. They may pass on information that they have obtained from other students, as well as the information that was originally on their form. The essential vocabulary includes words such as name, address, nationality, telephone number, occupation, marital status, and road numbers up to 20.
 
+#### 2. Chit Chat 
+- **Activity Type:** Information Search 
+- **Language Function:** asking for and giving personal information 
+
+The activity is called "Chit-chat" and is a whole-class information search game. The function practiced is asking for and giving personal information, and students use exponents such as "What's your name?", "Where do you live?", and "What are your hobbies?". The game involves distributing a role-card and questionnaire to each student, and the object of the game is to find all the people described on the questionnaire by moving around the room and asking each other questions. For example, a student might ask "Are you a nurse?" to find the person who matches the description on their questionnaire. The game is designed to be played with any number of students, and the lexical areas covered include occupations, hobbies, and numbers 1 to 100.
+
+#### 3. Seven Families  
+- **Activity Type:** matching and combining 
+- **Language Function:** talking about families  
+ 
+The Seven Families Game is a whole-class activity that focuses on talking about families. Students are given cards that describe different families and their members. The objective of the game is for the students to find the other members of their family by asking questions about their names, ages, and where they live. The activity encourages students to communicate and practice their language skills in a fun and interactive way.
+
+For example, a student may ask another student, "What is your son's name?" or "How old is your husband?" in order to determine if they are part of the same family. The activity helps students practice using family-related vocabulary and asking and answering questions about personal information.
+
 #### 9. Shopping Lists
 - **Activity Type:** Exchanging and Collecting
 - **Language Function:** Asking for things in shops 
