@@ -43,9 +43,9 @@ The Seven Families Game is a whole-class activity that focuses on talking about 
 
 For example, a student may ask another student, "What is your son's name?" or "How old is your husband?" in order to determine if they are part of the same family. The activity helps students practice using family-related vocabulary and asking and answering questions about personal information.
 
-#### 3. Seven Families  
+#### 4. How Many? 
 - **Activity Type:** information gap  
-- **Language Function:** counting  
+- **Language Function:** counting 
 
 The activity is called "How many?" and it is a pair work information gap activity. The function practiced is counting, and the essential vocabulary includes kitchen objects and numbers up to 20. Each pair is given two different pictures, and they have to ask each other how many of each object there are in their kitchens to find out who has the most things in their kitchen. Then, they can find out who has the most spiders. An example of students carrying out information exchange could be:
 
@@ -54,6 +54,25 @@ The activity is called "How many?" and it is a pair work information gap activit
 - Student A: I have two teapots. How many pans do you have?
 - Student B: I have four pans. How many do you have?
 - Student A: I have five pans. Let's add them up. Three teapots plus four pans plus...
+
+#### 5. Time Zones 
+- **Activity Type:** information gap  
+- **Language Function:** asking and telling the time 
+- 
+The "Time Zones" activity is a small group information gap game that focuses on practicing asking and telling time in English. The game involves each player in a group having an information card, with the 12 time cards placed in the middle of the table. The players take turns picking up a time card, which shows the time in one of four countries. The object of the game is for each player to fill in the time on their time card by asking the other members of the group what the time is in each of the other four countries. An example of an exchange between players could be "It's four o'clock in Sydney. What's the time in London?"
+
+#### 6. Where are my glasses?  
+- **Activity Type:** information gap  
+- **Language Function:** asking and replying where things are
+
+In this activity, students play in small groups and practice asking and replying where things are located using prepositions of place. Each group is given a set of cards with a large picture of a living room and small pictures of things that have been lost. The students take turns asking where their lost item is and the other players reply with the location using prepositions such as in, on, under, on top of, near, next to, in front of, and behind. The objective is for each player to find out where the lost items are and draw them in on their own picture. Example exchange:
+
+- Student 1: Where are my glasses?
+- Student 2: They're on the table.
+- Student 3: No, they're on top of the bookcase.
+- Student 1: Ah, I see. Thanks. (draws glasses on their picture)
+
+And so on.
 
 #### 9. Shopping Lists
 - **Activity Type:** Exchanging and Collecting
