@@ -43,6 +43,18 @@ The Seven Families Game is a whole-class activity that focuses on talking about 
 
 For example, a student may ask another student, "What is your son's name?" or "How old is your husband?" in order to determine if they are part of the same family. The activity helps students practice using family-related vocabulary and asking and answering questions about personal information.
 
+#### 3. Seven Families  
+- **Activity Type:** information gap  
+- **Language Function:** counting  
+
+The activity is called "How many?" and it is a pair work information gap activity. The function practiced is counting, and the essential vocabulary includes kitchen objects and numbers up to 20. Each pair is given two different pictures, and they have to ask each other how many of each object there are in their kitchens to find out who has the most things in their kitchen. Then, they can find out who has the most spiders. An example of students carrying out information exchange could be:
+
+- Student A: How many teapots do you have?
+- Student B: I have three teapots. How many do you have?
+- Student A: I have two teapots. How many pans do you have?
+- Student B: I have four pans. How many do you have?
+- Student A: I have five pans. Let's add them up. Three teapots plus four pans plus...
+
 #### 9. Shopping Lists
 - **Activity Type:** Exchanging and Collecting
 - **Language Function:** Asking for things in shops 
