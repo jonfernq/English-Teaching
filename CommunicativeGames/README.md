@@ -74,6 +74,12 @@ In this activity, students play in small groups and practice asking and replying
 
 And so on.
 
+#### 7. Crossroads 
+- **Activity Type:** information gap
+- **Language Function:** asking and replying where places ares 
+
+The activity is called 'Crossroads' and is an information gap activity. Students work in small groups of three or four and are given a set of plans of a public area with missing names of shops and public facilities. The students must ask and answer questions in English about the location of the places to fill in the missing information. Each player takes turns to offer information about their plan to the group and the others fill in the information on their own plan. The game ends when all players have completed their plans. Example exchange: "Where is the post office?" - "The post office is next to the bank."
+
 #### 9. Shopping Lists
 - **Activity Type:** Exchanging and Collecting
 - **Language Function:** Asking for things in shops 
