@@ -48,3 +48,9 @@ Bill: "Yeah, we were. Robert is the first and probably the last friend I will ma
 8. How do you maintain friendships with people who live far away from you?
 9. Do you think that having a lot of friends is more important than having a few close friends? Why or why not?
 10. Have you ever lost touch with a friend who was once close to you? What happened, and how did it make you feel?
+
+### Translation
+
+![translation](https://user-images.githubusercontent.com/68504324/236616821-0f35d3e9-7a4f-40b8-93b7-fe515e2cd1d9.jpg)
+
+
