@@ -1,4 +1,4 @@
-## Hosting a Barbecue 
+## Hosting a Barbecue With Friends
 
 ### Word List 
 
