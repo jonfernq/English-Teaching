@@ -1,20 +1,8 @@
 ## A Dream of Traveling to Korea: Exploring the Korean Wave
 
-**New Words:** 
+**What countries do you dream of traveling to?**  
 
-1. Following
-2. K-pop
-3. K-dramas
-4. Luxurious
-5. Authentic
-6. Cuisine
-7. Fulfill
-8. Striving
-9. Encouragement
-10. Reality
-
----
-**Dialogue:* 
+### Dialogue:   
 
 Tom: Have you ever thought about traveling to Korea?
 
@@ -45,7 +33,20 @@ Tom: I believe you can do it! Keep working towards your goal, and I'm sure you'l
 Sue: Thank you for the encouragement. I'll definitely keep striving to make this dream come true.
 
 
-** Reading Comprehension Questions:**
+### Vocabulary:  
+
+1. Following
+2. K-pop
+3. K-dramas
+4. Luxurious
+5. Authentic
+6. Cuisine
+7. Fulfill
+8. Striving
+9. Encouragement
+10. Reality
+
+### Reading Comprehension Questions:
 
 1. Where has Sue always wanted to travel since she was a little girl?
 2. What is the popular term used to describe South Korean culture?
@@ -58,7 +59,7 @@ Sue: Thank you for the encouragement. I'll definitely keep striving to make this
 9. What does Tom believe about Sue's dream of traveling to Korea?
 10. How does Sue respond to Tom's encouragement?
 
-**Discussion Questions:**
+### Discussion Questions:
 
 1. Have you ever been to a foreign country? If so, which one(s)? If not, where would you like to go and why?
 2. How do you think experiencing different cultures through travel can broaden your perspective and understanding of the world?
