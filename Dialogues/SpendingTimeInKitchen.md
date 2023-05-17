@@ -1,6 +1,6 @@
 ## I spend all my time in the kitchen 
 
-** What room in your home do you spend the most time in?** 
+**What room in your home do you spend the most time in?** 
 
 
 ### Dialogue 
