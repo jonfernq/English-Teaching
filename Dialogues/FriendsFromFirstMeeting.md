@@ -2,6 +2,9 @@
 
 **Have you ever met someone you really liked and became friends the first time you talked to them?** 
 
+---
+### Dialogue: 
+
 Tom: "So, do you have any friends that you became really close with at the first meeting?"
 
 Bill: "Yeah, actually I have one friend that I met in high school. His name is Robert and he was my classmate and roommate."
