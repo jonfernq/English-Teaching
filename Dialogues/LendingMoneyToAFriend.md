@@ -2,14 +2,6 @@
 
 **Have you ever lent money to a friend? Should you do this? What if they don't pay it back?**
 
-### Word List:
-
-- lent: past tense of "lend," meaning to give someone something (usually money) with the expectation of it being returned
-- regret: feeling of sadness or disappointment about something that has happened or been done
-- emergency: a serious, unexpected, and often dangerous situation requiring immediate action
-- disappointing: causing someone to feel unhappy or let down
-- refused: declined or rejected something, usually an offer or request
-
 
 ### Dialogue: 
 
@@ -32,6 +24,14 @@ Elizabeth: I'm sorry to hear that. Maybe you can learn from this experience and 
 Susan: Yeah, I definitely learned my lesson. I don't think I will be lending money to friends anymore.
 
 Elizabeth: It's understandable. Losing money and a friend at the same time is definitely not worth it.
+
+### Word List:
+
+- lent: past tense of "lend," meaning to give someone something (usually money) with the expectation of it being returned
+- regret: feeling of sadness or disappointment about something that has happened or been done
+- emergency: a serious, unexpected, and often dangerous situation requiring immediate action
+- disappointing: causing someone to feel unhappy or let down
+- refused: declined or rejected something, usually an offer or request
 
 ### Reading Comprehension Questions: 
 
