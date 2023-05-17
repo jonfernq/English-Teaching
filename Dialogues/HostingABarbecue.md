@@ -1,14 +1,7 @@
 ## Hosting a Barbecue With Friends
 
-### Word List 
+Have you ever invited friends over to your home to eat? 
 
-- Barbecue: a cooking method in which meat is cooked slowly over an open flame or hot coals
-- Beach: a sandy or pebbly area by the sea or another body of water
-- Fishing: the activity of catching fish
-- Equipment: tools, machines, or other devices used for a particular purpose
-- Burgers: a type of sandwich made with a flat patty of ground meat, typically beef, and served on a bun
-- Invite: to ask someone to go somewhere or do something with you
-- Alcohol: a type of drink that can make you feel drunk or intoxicated if consumed in large quantities.
 
 ### Dialogue 
 
@@ -37,6 +30,17 @@ John: That sounds like it was a successful event. Are you planning on having ano
 Mike: Yes, I am. I'm thinking about asking a girl from my class to come and if the party is successful, I might even ask her out.
 
 John: Good luck with that. I hope the party is a success!
+
+### Word List 
+
+- Barbecue: a cooking method in which meat is cooked slowly over an open flame or hot coals
+- Beach: a sandy or pebbly area by the sea or another body of water
+- Fishing: the activity of catching fish
+- Equipment: tools, machines, or other devices used for a particular purpose
+- Burgers: a type of sandwich made with a flat patty of ground meat, typically beef, and served on a bun
+- Invite: to ask someone to go somewhere or do something with you
+- Alcohol: a type of drink that can make you feel drunk or intoxicated if consumed in large quantities.
+
 
 ### Reading Comprehension Questions 
 
