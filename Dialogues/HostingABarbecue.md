@@ -1,6 +1,6 @@
 ## Hosting a Barbecue With Friends
 
-Have you ever invited friends over to your home to eat? 
+**Have you ever invited friends over to your home to eat?** 
 
 
 ### Dialogue 
