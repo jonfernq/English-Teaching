@@ -1,5 +1,7 @@
 ## Lending money to a friend
 
+**Have you ever lent money to a friend? Should you do this? What if they don't pay it back?**
+
 ### Word List:
 
 - lent: past tense of "lend," meaning to give someone something (usually money) with the expectation of it being returned
@@ -8,10 +10,10 @@
 - disappointing: causing someone to feel unhappy or let down
 - refused: declined or rejected something, usually an offer or request
 
----
+
 ### Dialogue: 
 
-Susan: hey, have you ever lent money to a friend before?
+Susan: Hey, have you ever lent money to a friend before?
 
 Elizabeth: Yeah, I did once, but it didn't turn out well. Why do you ask?
 
@@ -31,7 +33,7 @@ Susan: Yeah, I definitely learned my lesson. I don't think I will be lending mon
 
 Elizabeth: It's understandable. Losing money and a friend at the same time is definitely not worth it.
 
-Reading Comprehension Questions: 
+### Reading Comprehension Questions: 
 
 1. Why did Susan lend her friend 3000 baht?
 
