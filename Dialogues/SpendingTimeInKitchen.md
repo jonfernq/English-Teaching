@@ -1,14 +1,7 @@
 ## I spend all my time in the kitchen 
 
-### Word List:
+** What room in your home do you spend the most time in?** 
 
-- Sophisticated: Highly developed or complex
-- Equipped: Supplied with necessary tools or equipment
-- Barbecue: Cook over an open flame or hot coals
-- Forte: A strong point or skill
-- Neighbor: A person living near or next door to the speaker
-- Hygiene: Conditions or practices to maintain health and prevent disease
-- Experiment: Try out a new procedure, idea or activity
 
 ### Dialogue 
 
@@ -31,6 +24,16 @@ Annie: Well, I lost confidence in the restaurants around my home. The food isn't
 Mary: That sounds great. Have you been cooking during this exam period?
 
 Annie: No, unfortunately, I had to eat at restaurants the past few days since I'm from Ningbo. I miss my kitchen and my own cooking a little.
+
+### Word List:
+
+- Sophisticated: Highly developed or complex
+- Equipped: Supplied with necessary tools or equipment
+- Barbecue: Cook over an open flame or hot coals
+- Forte: A strong point or skill
+- Neighbor: A person living near or next door to the speaker
+- Hygiene: Conditions or practices to maintain health and prevent disease
+- Experiment: Try out a new procedure, idea or activity
 
 ### Questions: 
 
