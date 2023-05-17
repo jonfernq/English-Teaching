@@ -2,7 +2,7 @@
 
 **Have you ever met someone you really liked and became friends the first time you talked to them?** 
 
----
+
 ### Dialogue: 
 
 Tom: "So, do you have any friends that you became really close with at the first meeting?"
