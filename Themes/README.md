@@ -6,7 +6,7 @@ Person:
 
 ChatGPT: 
 - Certainly! Here are some appropriate unit themes for a language course focusing on listening and speaking:
-- 
+
 1. Daily Life and Routines
 2. Hobbies and Interests
 3. Family and Relationships
