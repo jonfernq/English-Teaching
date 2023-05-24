@@ -1,8 +1,8 @@
-## Basic ENglish
+## Basic English
 
 ### Travel
 
- the words related to travel from the Basic English word list and their translations into Thai:
+The words related to travel from the Basic English word list and their translations into Thai:
 
 | Word | Translation |
 | --- | --- |
@@ -35,7 +35,7 @@
 
 ### Food
 
- the words related to food and cooking from the Basic English word list and their translations into Thai:
+The words related to food and cooking from the Basic English word list and their translations into Thai:
 
 | Word | Translation |
 | --- | --- |
@@ -89,6 +89,64 @@
 | Nutritious | อุดมครบถ้วน |
 | Hungry | หิว |
 | Thirsty | กระหายน้ำ |
+
+### Clothes
+
+a selection of words from the Basic English word list that are related to clothes, fashion, and style:
+
+| English Word | Thai Translation |
+| --- | --- |
+| Clothes | เสื้อผ้า |
+| Fashion | แฟชั่น |
+| Style | สไตล์ |
+| Dress | เดรส |
+| Shirt | เสื้อผ้าเชิ้ต |
+| Pants | กางเกง |
+| Jeans | ยีนส์ |
+| Skirt | กระโปรง |
+| Blouse | เสื้อคลุมอก |
+| T-shirt | เสื้อยืด |
+| Jacket | เสื้อแจ็คเก็ต |
+| Sweater | เสื้อนิ่ม |
+| Coat | เสื้อคลุม |
+| Hat | หมวก |
+| Cap | หมวกแบรนด์ |
+| Scarf | ผ้าพันคอ |
+| Tie | เนคไท |
+| Socks | ถุงเท้า |
+| Shoes | รองเท้า |
+| Sneakers | รองเท้าผ้าใบ |
+| Sandals | รองเท้าแตะ |
+| Boots | รองเท้าบูท |
+| High heels | รองเท้าส้นสูง |
+| Suit | สูท |
+| Tie | เนคไท |
+| Belt | เข็มขัด |
+| Jewelry | เครื่องประดับ |
+| Earrings | ต่างหู |
+| Necklace | สร้อยคอ |
+| Bracelet | สร้อยข้อมือ |
+| Ring | แหวน |
+| Watch | นาฬิกา |
+| Sunglasses | แว่นกันแดด |
+| Handbag | กระเป๋าถือ |
+| Wallet | กระเป๋าเงิน |
+| Fashionable | ทันสมัย |
+| Trendy | เท่ห์ |
+| Stylish | ทันสมัย |
+| Chic | หรูหรา |
+| Elegant | สง่างาม |
+| Casual | สบายๆ |
+| Formal | เป็นกฎ |
+| Classic | คลาสสิค |
+| Vintage | วินเทจ |
+| Designer | นักออกแบบ |
+| Runway | ทางวิ่ง |
+| Catwalk | ทางเดินวิ่ง |
+| Model | นางแบบ |
+| Fashion show | งานแฟชั่ |
+
+
 
 
 
