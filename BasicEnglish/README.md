@@ -277,6 +277,62 @@ Certainly! Here's a table with words related to school and studying from the Bas
 | Graduation | การสำเร็จการศึกษา |
 | Scholar | นักเรียนทุ |
 
+### Friends
+
+ words related to friends and social life from the Basic English word list and their translations into Thai:
+
+| English Word | Thai Translation |
+| --- | --- |
+| Friend | เพื่อน |
+| Friendship | มิตรภาพ |
+| Social | สังคม |
+| Socialize | มีสัมผัสกับผู้อื่น |
+| Relationship | ความสัมพันธ์ |
+| Acquaintance | ความรู้จัก |
+| Meet | พบหมาย |
+| Greet | ทักทาย |
+| Hang out | เจอกัน |
+| Get together | พบปะกัน |
+| Party | ปาร์ตี้ |
+| Celebration | การฉลอง |
+| Gathering | การรวมตัว |
+| Event | เหตุการณ์ |
+| Reunion | การเรียนพิเศษ |
+| Conversation | การสนทนา |
+| Talk | พูดคุย |
+| Chat | แชท |
+| Laugh | หัวเราะ |
+| Fun | ความสนุก |
+| Enjoy | สนุก |
+| Share | แบ่งปัน |
+| Support | สนับสนุน |
+| Help | ช่วยเหลือ |
+| Trust | ความเชื่อมั่น |
+| Loyalty | ความภักดี |
+| Caring | การดูแล |
+| Understanding | ความเข้าใจ |
+| Respect | ความเคารพ |
+| Kindness | ความเมตตา |
+| Generosity | ความใจดี |
+| Supportive | ให้ความสนับสนุน |
+| Helpful | ช่วยเหลือ |
+| Compassionate | เห็นอกเห็นใจ |
+| Empathy | ความเห็นอกเห็นใจ |
+| Understanding | ความเข้าใจ |
+| Listening | การฟัง |
+| Trustworthy | ซื่อสัตย์ |
+| Reliable | เชื่อถือได้ |
+| Honest | ซื่อสัตย์ |
+| Reliable | น่าเชื่อถือ |
+| Loyal | ซื่อสัตย์ |
+| Happy | มีความสุข |
+| Joy | ความสุข |
+| Excitement | ความตื่นเต้น |
+| Love | รัก |
+| Affection | ความรักใคร่ |
+
+
+
 
 
 
