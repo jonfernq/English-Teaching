@@ -5,6 +5,7 @@ Table of Contents
 - Food
 - Clothes
 - Entertainment
+- School
 - Friends 
 - Places around town and directions
 - Nature
