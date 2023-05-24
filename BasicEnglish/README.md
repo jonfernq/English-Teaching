@@ -6,6 +6,9 @@ Table of Contents
 - Clothes
 - Entertainment
 - Friends 
+- Places around town and directions
+- Nature
+- Health
 
 ---
 ### Travel
@@ -325,6 +328,194 @@ putting them in a table with their translation into Thai
 | Excitement | ความตื่นเต้น |
 | Love | รัก |
 | Affection | ความรักใคร่ |
+
+### Places around town and directions
+
+Words related to places around town and giving directions from the Basic English word list and their translations into Thai:
+
+| English Word | Thai Translation |
+| --- | --- |
+| Town | เมืองหรือเมืองเล็ก |
+| City | เมืองหรือเมืองใหญ่ |
+| Street | ถนน |
+| Road | ถนน |
+| Avenue | ถนนใหญ่ |
+| Square | สี่แยก |
+| Intersection | ทางแยก |
+| Building | ตึก |
+| House | บ้าน |
+| Apartment | อพาร์ทเมนต์ |
+| Store | ร้านค้า |
+| Shop | ร้าน |
+| Market | ตลาด |
+| Restaurant | ร้านอาหาร |
+| Cafe | ร้านกาแฟ |
+| Bank | ธนาคาร |
+| Hospital | โรงพยาบาล |
+| Pharmacy | ร้านขายยา |
+| School | โรงเรียน |
+| Library | ห้องสมุด |
+| Park | สวนสาธารณะ |
+| Station | สถานี |
+| Airport | สนามบิน |
+| Bus stop | ป้ายรถประจำทาง |
+| Train station | สถานีรถไฟ |
+| Subway | รถไฟใต้ดิน |
+| Post office | ที่ทำการไปรษณีย์ |
+| Police station | สถานีตำรวจ |
+| Fire station | สถานีดับเพลิง |
+| Museum | พิพิธภัณฑ์ |
+| Gallery | หอศิลป์ |
+| Theater | โรงละคร |
+| Cinema | โรงภาพยนตร์ |
+| Stadium | สนามกีฬา |
+| Parking lot | ที่จอดรถ |
+| Bridge | สะพาน |
+| River | แม่น้ำ |
+| Lake | ทะเลสาบ |
+| Mountain | เขา |
+| Beach | ชายหาด |
+| Direction | ทิศทาง |
+| North | ทิศเหนือ |
+| South | ทิศใต้ |
+| East | ทิศตะวันออก |
+| West | ทิศตะวันตก |
+| Turn | เลี้ยว |
+| Go straight | เดินตรงไป |
+| Stop | หยุด |
+| Go | ไป |
+| Come |  |
+
+
+### Nature
+
+Words related to animals, plants, nature, hiking, and camping from the Basic English word list and their translations into Thai:
+
+| English Word | Thai Translation |
+| --- | --- |
+| Animal | สัตว์ |
+| Dog | สุนัข |
+| Cat | แมว |
+| Bird | นก |
+| Fish | ปลา |
+| Horse | ม้า |
+| Cow | วัว |
+| Sheep | แกะ |
+| Goat | แพะ |
+| Elephant | ช้าง |
+| Tiger | เสือ |
+| Lion | สิงโต |
+| Monkey | ลิง |
+| Bear | หมี |
+| Rabbit | กระต่าย |
+| Deer | กวาง |
+| Butterfly | ผีเสื้อ |
+| Bee | ผึ้ง |
+| Flower | ดอกไม้ |
+| Tree | ต้นไม้ |
+| Forest | ป่า |
+| Mountain | เขา |
+| Hill | เนินเขา |
+| River | แม่น้ำ |
+| Lake | ทะเลสาบ |
+| Ocean | มหาสมุทร |
+| Beach | ชายหาด |
+| Sky | ท้องฟ้า |
+| Sun | ดวงอาทิตย์ |
+| Moon | ดวงจันทร์ |
+| Star | ดาว |
+| Cloud | เมฆ |
+| Rain | ฝน |
+| Snow | หิมะ |
+| Wind | ลม |
+| Hiking | เดินป่า |
+| Camping | การตั้งแคมป์ |
+| Tent | เต็นท์ |
+| Campfire | ไฟแคมป์ |
+| Backpack | กระเป๋าเป้ |
+| Trail | เส้นทาง |
+| Nature | ธรรมชาติ |
+| Wilderness | มหัศจรรย์ของธรรมชาติ |
+| Landscape | ทัศนียภาพ |
+| Park | สวนสาธารณะ |
+| Reserve | เขตสงวน |
+| Preserve | รักษาสัตว์และพืชในธรรมชาติ |
+| National park | อุทยานแห่งชาติ |
+| Wildlife | สัตว์ป่าและพืชป่า |
+| Birdwatching | การดูนก |
+| Forest | ป่า |
+| Stream | ลำธาร |
+| Lake | ทะเลสาบ |
+| Trail | เส้นทางในป่า |
+
+
+### Health
+
+words of 'Basic English'
+that are related to the body, health, disease, nutrition,
+and exercise
+
+| English Word | Thai Translation |
+| --- | --- |
+| Body | ร่างกาย |
+| Head | หัว |
+| Face | ใบหน้า |
+| Hair | ผม |
+| Eye | ตา |
+| Ear | หู |
+| Nose | จมูก |
+| Mouth | ปาก |
+| Teeth | ฟัน |
+| Tongue | ลิ้น |
+| Hand | มือ |
+| Arm | แขน |
+| Leg | ขา |
+| Foot | เท้า |
+| Heart | หัวใจ |
+| Lung | ปอด |
+| Stomach | กระเพาะอาหาร |
+| Back | หลัง |
+| Bone | กระดูก |
+| Muscle | กล้ามเนื้อ |
+| Blood | เลือด |
+| Health | สุขภาพ |
+| Disease | โรค |
+| Doctor | หมอ |
+| Nurse | พยาบาล |
+| Hospital | โรงพยาบาล |
+| Medicine | ยา |
+| Pain | อาการปวด |
+| Fever | ไข้ |
+| Cough | ไอ |
+| Cold | เป็นหวัด |
+| Allergy | การแพ้ |
+| Nutrition | โภชนาการ |
+| Food | อาหาร |
+| Fruit | ผลไม้ |
+| Vegetable | ผัก |
+| Protein | โปรตีน |
+| Vitamin | วิตามิน |
+| Exercise | การออกกำลังกาย |
+| Fitness | สุขภาพทางกาย |
+| Gym | ห้องออกกำลังกาย |
+| Yoga | โยคะ |
+| Running | วิ่ง |
+| Walking | เดินเรือน |
+| Swimming | ว่ายน้ำ |
+| Cycling | ขี่จักรยาน |
+| Sports | กีฬา |
+| Strength | ความแข็งแกร่ง |
+| Flexibility | ความยืดหยุ่น |
+| Balance | สมดุล |
+| Endurance | ความทนทาน |
+| Relaxation | การผ่อนคลาย |
+| Sleep | การนอน |
+| Rest | การพักผ่อน |
+| Hygiene | อนามัย |
+| Cleanliness | ความสะอาด |
+| Wellness |  |
+
+
 
 
 
