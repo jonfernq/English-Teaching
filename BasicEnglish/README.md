@@ -146,6 +146,74 @@ a selection of words from the Basic English word list that are related to clothe
 | Model | นางแบบ |
 | Fashion show | งานแฟชั่ |
 
+### Entertainment
+
+ the words in the 1000 basic words of 'Basic English'
+that are related to entertainment,
+putting them in a table with their translation into Thai
+
+
+* * *
+
+**ChatGPT:**
+
+Certainly! Here's a table with words related to entertainment from the Basic English word list and their translations into Thai:
+
+| English Word | Thai Translation |
+| --- | --- |
+| Entertainment | ความบันเทิง |
+| Movie | ภาพยนตร์ |
+| Film | ภาพยนตร์ |
+| Theater | โรงละคร |
+| Play | การแสดง |
+| Drama | ละคร |
+| Comedy | ตลก |
+| Tragedy | โรแมนติก |
+| Music | เพลง |
+| Song | เพลง |
+| Concert | คอนเสิร์ต |
+| Band | วงดนตรี |
+| Musician | นักดนตรี |
+| Singer | นักร้อง |
+| Dance | การเต้น |
+| Ballet | บัลเลต |
+| Opera | โอเปร่า |
+| Performance | การแสดง |
+| Actor | นักแสดง |
+| Actress | นักแสดงหญิง |
+| Director | ผู้กำกับ |
+| Stage | เวที |
+| Audience | ผู้ชม |
+| Art | ศิลปะ |
+| Painting | ภาพวาด |
+| Sculpture | ประติมากรรม |
+| Exhibition | นิทรรศการ |
+| Gallery | หอศิลป์ |
+| Museum | พิพิธภัณฑ์ |
+| Photography | การถ่ายภาพ |
+| Photographer | ช่างภาพ |
+| Literature | วรรณกรรม |
+| Novel | นิยาย |
+| Poem | บทกวี |
+| Book | หนังสือ |
+| Magazine | นิตยสาร |
+| Newspaper | หนังสือพิมพ์ |
+| Story | เรื่องราว |
+| Fiction | นิยาย |
+| Non-fiction | นิตยสารบันเทิง |
+| Gaming | เกมส์ |
+| Video game | เกมวิดีโอ |
+| Board game | เกมกระดาน |
+| Puzzle | ปริศนา |
+| Sports | กีฬา |
+| Football | ฟุตบอล |
+| Basketball | บาสเกตบอล |
+| Tennis | เทนนิส |
+| Golf | กอล์ฟ |
+| Swimming | การว่ายน้ำ |
+| Cycling | การขี่จักรยาน |
+| Running | การวิ่ |
+
 
 
 
