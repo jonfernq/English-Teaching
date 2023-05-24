@@ -1,5 +1,13 @@
 ## Basic English
 
+Table of Contents
+- Travel 
+- Food
+- Clothes
+- Entertainment
+- Friends 
+
+---
 ### Travel
 
 The words related to travel from the Basic English word list and their translations into Thai:
@@ -152,13 +160,6 @@ a selection of words from the Basic English word list that are related to clothe
 that are related to entertainment,
 putting them in a table with their translation into Thai
 
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a table with words related to entertainment from the Basic English word list and their translations into Thai:
-
 | English Word | Thai Translation |
 | --- | --- |
 | Entertainment | ความบันเทิง |
@@ -219,12 +220,6 @@ Certainly! Here's a table with words related to entertainment from the Basic Eng
 t the words in the 1000 basic words of 'Basic English'
 that are related to school and studying,
 putting them in a table with their translation into Thai
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a table with words related to school and studying from the Basic English word list and their translations into Thai:
 
 | English Word | Thai Translation |
 | --- | --- |
