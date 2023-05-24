@@ -33,3 +33,63 @@
 | Check-out | เช็คเอาท์ |
 | Sightseeing | การเที่ยวชม |
 
+### Food
+
+ the words related to food and cooking from the Basic English word list and their translations into Thai:
+
+| Word | Translation |
+| --- | --- |
+| Food | อาหาร |
+| Eat | กิน |
+| Drink | ดื่ม |
+| Cook | ทำอาหาร |
+| Meal | มื้ออาหาร |
+| Breakfast | อาหารเช้า |
+| Lunch | อาหารกลางวัน |
+| Dinner | อาหารเย็น |
+| Snack | ขนมขบเคี้ยว |
+| Fruit | ผลไม้ |
+| Vegetable | ผัก |
+| Meat | เนื้อสัตว์ |
+| Fish | ปลา |
+| Chicken | ไก่ |
+| Beef | เนื้อวัว |
+| Pork | เนื้อหมู |
+| Rice | ข้าว |
+| Bread | ขนมปัง |
+| Cheese | ชีส |
+| Milk | นม |
+| Butter | เนย |
+| Sugar | น้ำตาล |
+| Salt | เกลือ |
+| Pepper | พริกไทย |
+| Oil | น้ำมัน |
+| Egg | ไข่ |
+| Soup | ซุป |
+| Salad | สลัด |
+| Dessert | ของหวาน |
+| Baking | การอบ |
+| Boiling | การต้ม |
+| Grilling | การย่าง |
+| Roasting | การอบกระทะ |
+| Frying | การทอด |
+| Cutting | การตัด |
+| Mixing | การผสม |
+| Stirring | การคน |
+| Serving | การเสิร์ฟ |
+| Tasting | การชิม |
+| Recipe | เครื่องปรุงอาหาร |
+| Ingredient | ส่วนผสม |
+| Flavor | รสชาติ |
+| Spicy | เผ็ด |
+| Sweet | หวาน |
+| Sour | เปรี้ยว |
+| Bitter | ขม |
+| Healthy | มีประโยชน์สุขภาพ |
+| Nutritious | อุดมครบถ้วน |
+| Hungry | หิว |
+| Thirsty | กระหายน้ำ |
+
+
+
+
