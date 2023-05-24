@@ -214,6 +214,72 @@ Certainly! Here's a table with words related to entertainment from the Basic Eng
 | Cycling | การขี่จักรยาน |
 | Running | การวิ่ |
 
+## School
+
+t the words in the 1000 basic words of 'Basic English'
+that are related to school and studying,
+putting them in a table with their translation into Thai
+
+* * *
+
+**ChatGPT:**
+
+Certainly! Here's a table with words related to school and studying from the Basic English word list and their translations into Thai:
+
+| English Word | Thai Translation |
+| --- | --- |
+| School | โรงเรียน |
+| Student | นักเรียน |
+| Teacher | ครู |
+| Classroom | ห้องเรียน |
+| Desk | โต๊ะ |
+| Chair | เก้าอี้ |
+| Book | หนังสือ |
+| Pen | ปากกา |
+| Pencil | ดินสอ |
+| Paper | กระดาษ |
+| Notebook | สมุดโน้ต |
+| Exam | การสอบ |
+| Test | การทดสอบ |
+| Homework | การบ้าน |
+| Study | เรียน |
+| Learn | เรียนรู้ |
+| Education | การศึกษา |
+| Knowledge | ความรู้ |
+| Subject | วิชา |
+| Mathematics | คณิตศาสตร์ |
+| Science | วิทยาศาสตร์ |
+| History | ประวัติศาสตร์ |
+| Geography | ภูมิศาสตร์ |
+| Language | ภาษา |
+| Literature | วรรณกรรม |
+| Art | ศิลปะ |
+| Music | เพลง |
+| Physical Education | กิจกรรมพละศึกษา |
+| Computer | คอมพิวเตอร์ |
+| Project | โครงงาน |
+| Presentation | การนำเสนอ |
+| Library | ห้องสมุด |
+| Research | การวิจัย |
+| Degree | วุฒิบัตร |
+| Diploma | ประกาศนียบัตร |
+| Graduation | การสำเร็จการศึกษา |
+| College | วิทยาลัย |
+| University | มหาวิทยาลัย |
+| Lecture | การบรรยาย |
+| Assignment | การมอบหมายงาน |
+| Report | รายงาน |
+| Note | บันทึก |
+| Attendance | การเข้าร่วม |
+| Classroom | ห้องเรียน |
+| Study group | กลุ่มเรียนรู้ |
+| Examination | การสอบคุมสถานการณ์ |
+| Graduation | การสำเร็จการศึกษา |
+| Scholar | นักเรียนทุ |
+
+
+
+
 
 
 
