@@ -1,7 +1,7 @@
 ## Basic English
 
 Table of Contents 
-- Course Desription
+- Course Description
 - Vocabulary 
 
 ---
