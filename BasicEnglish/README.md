@@ -44,6 +44,7 @@ Designing a lesson plan for Thai high school English language students to simula
     *   Introduce additional vocabulary and phrases specific to the tourism sector, such as hotel services, tourist attractions, transportation, cultural activities, etc.
 
 Throughout the lessons, encourage students to actively use the English language, provide constructive feedback, and promote a supportive learning environment. Additionally, incorporating listening exercises, role-plays, group discussions, and multimedia resources can further enhance their language acquisition and practical application skills.
+
 ---
 ### Cafe Business Idea 
 
