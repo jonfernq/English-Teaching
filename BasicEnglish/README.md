@@ -1,6 +1,50 @@
 ## Basic English
 
-Table of Contents
+Table of Contents 
+- Course Desription
+- Vocabulary 
+
+---
+### Course Description
+
+> If you wanted to organize Thai high school English language students in groups with the aim of these groups to simulate a small business and the everyday English language used among staff, managers, and with customers, suppliers and government, do you have any suggestions, for example regarding lesson plans and vocabulary? I want them also to gain a firm foundation in the basics of speaking and listening, making questions and answers, as well as gaining language they can use in practical work situations with foreigners in the tourism sector.  
+
+Designing a lesson plan for Thai high school English language students to simulate a small business environment can be an engaging and practical way to enhance their language skills. Here's a suggested outline for the lesson plan along with vocabulary recommendations:
+
+1.  Introduction to Business Context (1-2 lessons):
+    
+    *   Introduce the concept of a small business and its various roles (staff, managers, customers, suppliers, government).
+    *   Discuss the importance of English language skills in the tourism sector.
+    *   Teach relevant vocabulary related to business roles, such as employee, manager, customer, supplier, government officer, etc.
+2.  Building Language Foundations (2-3 lessons):
+    
+    *   Focus on the basics of speaking and listening, including greetings, introductions, and common phrases used in everyday conversations.
+    *   Teach sentence structures for making questions and providing answers in various contexts.
+    *   Introduce vocabulary related to daily business interactions, such as greetings, introductions, requesting information, and giving instructions.
+3.  Simulating Business Scenarios (4-5 lessons): Divide students into groups and assign them different roles (staff, managers, customers, suppliers, government officers). Each group will simulate a small business and engage in practical work situations.
+    
+    a. Customer Service:
+    
+    *   Role-play scenarios involving customers and staff, focusing on inquiries, reservations, complaints, and problem-solving.
+    *   Teach vocabulary related to customer service, such as booking, cancellation, refund, complaint, etc.
+    
+    b. Supplier Interaction:
+    
+    *   Role-play scenarios involving suppliers and staff, focusing on placing orders, negotiating prices, and discussing delivery schedules.
+    *   Teach vocabulary related to purchasing and supply chain, such as order, quantity, price, delivery, etc.
+    
+    c. Management Meetings:
+    
+    *   Role-play scenarios involving managers and staff, focusing on discussing business strategies, making decisions, and assigning tasks.
+    *   Teach vocabulary related to management and team collaboration, such as brainstorming, decision-making, planning, delegation, etc.
+4.  Language Review and Expansion (2-3 lessons):
+    
+    *   Review and reinforce previously taught language concepts, including speaking, listening, question formation, and vocabulary related to different business scenarios.
+    *   Introduce additional vocabulary and phrases specific to the tourism sector, such as hotel services, tourist attractions, transportation, cultural activities, etc.
+
+Throughout the lessons, encourage students to actively use the English language, provide constructive feedback, and promote a supportive learning environment. Additionally, incorporating listening exercises, role-plays, group discussions, and multimedia resources can further enhance their language acquisition and practical application skills.
+
+### Vocabulary: Table of Contents
 - Travel 
 - Food
 - Clothes
