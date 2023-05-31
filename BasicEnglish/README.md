@@ -1,9 +1,64 @@
 ## Basic English
 
 Table of Contents 
+- List of Basic Questions
 - Course Description
 - Cafe Business Idea
 - Vocabulary 
+
+---
+Here's a long list of questions that an English teacher could ask a Thai high school student, covering various question and answer forms in the English language:
+
+1. What is your name?
+2. How old are you?
+3. Where were you born?
+4. What is your favorite subject in school?
+5. Do you have any siblings?
+6. Can you speak any other languages?
+7. What are your hobbies?
+8. Have you ever traveled abroad? If yes, where did you go?
+9. What is your favorite food?
+10. Are you a morning person or a night owl?
+11. Can you play any musical instruments?
+12. Do you have any pets?
+13. What is your favorite color?
+14. What is your dream job?
+15. How do you usually spend your weekends?
+16. What is your favorite book or movie?
+17. Have you ever participated in any sports or competitions?
+18. Are you a good cook? If yes, what is your specialty?
+19. What is your favorite season of the year?
+20. Have you ever met anyone famous? If yes, who?
+21. What is your favorite type of music?
+22. Do you enjoy outdoor activities? If yes, which ones?
+23. Have you ever been to a concert or live performance?
+24. What is your favorite holiday or celebration?
+25. Can you swim? If yes, where did you learn?
+26. Do you have any favorite TV shows or series?
+27. What is your favorite animal?
+28. Are you a good dancer? If yes, what style do you prefer?
+29. Have you ever done any volunteer work or community service?
+30. What is your favorite place to visit in Thailand?
+31. Can you ride a bicycle? If yes, when did you learn?
+32. Do you enjoy cooking or baking? If yes, what do you like to make?
+33. Have you ever been to a museum or art gallery?
+34. What is your favorite type of movie (e.g., comedy, action, drama)?
+35. Are you interested in technology? If yes, what aspect fascinates you?
+36. Have you ever been in a school play or performance?
+37. What is your favorite sport to watch or play?
+38. Can you solve a Rubik's Cube? If yes, how long did it take you to learn?
+39. Have you ever done any camping or hiking?
+40. What is your favorite type of dessert?
+41. Do you enjoy puzzles or brain teasers? If yes, which ones do you like?
+42. Have you ever been on a road trip? If yes, where did you go?
+43. What is your favorite historical period or event?
+44. Can you ride a motorcycle or drive a car? If yes, when did you learn?
+45. Do you enjoy painting or drawing? If yes, what is your preferred medium?
+46. Have you ever been to a theme park or amusement park?
+47. What is your favorite type of dance (e.g., hip-hop, ballet, salsa)?
+48. Can you solve a Sudoku puzzle? If yes, how quickly can you complete it?
+49. Have you ever done any martial arts or self-defense training?
+50. What is your favorite type of cuisine?
 
 ---
 ### Course Description
