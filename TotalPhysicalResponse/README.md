@@ -1,84 +1,6 @@
 # Total Physical Response (TPR) 
 
-**You:**
-
-Does command line Java come pre-installed in Ubuntu WSL  ? 
-
-* * *
-
-**ChatGPT:**
-
-As of my knowledge cutoff in September 2021, Ubuntu WSL (Windows Subsystem for Linux) does not come pre-installed with Java. WSL is a compatibility layer provided by Microsoft that allows you to run a Linux environment on Windows, but it does not include any pre-installed software or packages.
-
-To use Java on Ubuntu WSL, you would need to install it manually. You can do this by opening a terminal in the Ubuntu WSL environment and running the following command:
-
-```sql
-sudo apt update
-sudo apt install default-jdk
-```
-
-The first command (`sudo apt update`) updates the package lists, and the second command (`sudo apt install default-jdk`) installs the default JDK (Java Development Kit), which includes the Java Runtime Environment (JRE) and other tools necessary for Java development.
-
-Please note that this information is based on the state of Ubuntu WSL as of September 2021. It's possible that the situation may have changed since then. I recommend checking the official documentation or the current state of Ubuntu WSL for the most up-to-date information.
-
-* * *
-
-**You:**
-
-please provide a simple hello world java program to test the command line Java installation in Ubuntu WSL 
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a simple "Hello, World!" program in Java that you can use to test your command line Java installation in Ubuntu WSL:
-
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-```
-
-To run this program, follow these steps:
-
-1. Open a terminal in your Ubuntu WSL environment.
-    
-2. Use a text editor (e.g., `nano` or `vim`) to create a new file named `HelloWorld.java` and paste the above code into it.
-    
-3. Save the file and exit the text editor.
-    
-4. Compile the Java source code by running the following command:
-    
-    ```bash
-    javac HelloWorld.java
-    ```
-    
-    This command will generate a `HelloWorld.class` file.
-    
-5. Finally, execute the compiled Java program by running the following command:
-    
-    ```bash
-    java HelloWorld
-    ```
-    
-    You should see the output `Hello, World!` displayed in the terminal.
-    
-
-If you see the expected output, it means your command line Java installation is working correctly.
-
-* * *
-
-**You:**
-
-Are you familiar with the Total Physical Response (TPR) method of ENglish teaching? 
-
-* * *
-
-**ChatGPT:**
-
-Yes, I'm familiar with the Total Physical Response (TPR) method of language teaching. The TPR method was developed by Dr. James J. Asher in the 1960s as an approach to teaching second languages. It emphasizes the connection between language and physical movement, aiming to engage learners in a kinesthetic and interactive learning experience.
+The TPR method was developed by Dr. James J. Asher in the 1960s as an approach to teaching second languages. It emphasizes the connection between language and physical movement, aiming to engage learners in a kinesthetic and interactive learning experience.
 
 In TPR, the teacher provides commands or instructions in the target language, and the learners respond by performing physical actions or movements that correspond to those instructions. This method is based on the idea that by associating language with physical actions, learners can better internalize vocabulary and sentence structures.
 
@@ -93,19 +15,12 @@ Some key principles and techniques commonly associated with TPR include:
 
 TPR is often used in the early stages of language learning or with young learners, but it can be adapted for learners of various ages and proficiency levels. It can be an effective method for introducing new vocabulary, practicing grammar structures, and developing listening skills in a dynamic and interactive way.
 
-* * *
-
-**You:**
-
-Please create a  TPR syllabus for Thai high school students. 
-
-* * *
-
-**ChatGPT:**
+---
+> Please provide a TPR syllabus for Thai high school students. 
 
 Designing a comprehensive TPR syllabus requires a detailed understanding of the specific needs, goals, and curriculum requirements of Thai high school students. However, I can provide you with a sample outline that you can adapt and modify according to your specific context. This sample TPR syllabus is designed for beginner-level Thai high school students learning English as a second language:
 
-Course: Total Physical Response (TPR) English Level: Beginner
+**Course: Total Physical Response (TPR) English Level: Beginner**
 
 Course Overview: The Total Physical Response (TPR) English course is designed to develop the listening and speaking skills of Thai high school students through interactive and kinesthetic activities. The course focuses on building vocabulary, understanding basic sentence structures, and developing oral comprehension.
 
@@ -118,7 +33,7 @@ Course Objectives: By the end of the course, students should be able to:
 
 Course Duration: 12 weeks (can be adjusted as per the school's schedule)
 
-Weekly Outline:
+**Weekly Outline:**
 
 Week 1: Introduction to TPR and Classroom Commands
 
@@ -159,23 +74,12 @@ Assessment: Assessment methods can include:
 
 Note: This sample syllabus serves as a general framework, and it should be customized based on the specific needs, proficiency levels, and available resources of the Thai high school students.
 
-* * *
+---
+> Could you elaborate on: Week 1: Introduction to TPR and Classroom Commands? 
 
-**You:**
+Here's a more detailed breakdown of Week 1, focusing on the introduction to TPR and classroom commands:
 
-could you elaborate on: Week 1: Introduction to TPR and Classroom Commands
-
-Understanding the principles and benefits of TPR.
-Introduction to basic classroom commands and corresponding actions.
-Practice following commands and responding with appropriate physical actions.
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a more detailed breakdown of Week 1, focusing on the introduction to TPR and classroom commands:
-
-Week 1: Introduction to TPR and Classroom Commands
+**Week 1: Introduction to TPR and Classroom Commands** 
 
 Objective:
 
@@ -208,17 +112,10 @@ Homework: Assign a small homework task where students practice giving commands t
 
 By the end of Week 1, students should have a clear understanding of TPR, be familiar with basic classroom commands, and demonstrate the ability to follow commands and respond with appropriate physical actions.
 
-* * *
+---
+> Please provide some examples of 'a series of interactive practice activities' mentioned above
 
-**You:**
-
-Please provide some examples of 'a series of interactive practice activities' mentioned above
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here are some examples of interactive practice activities for students to reinforce their understanding of classroom commands and corresponding actions:
+Here are some examples of interactive practice activities for students to reinforce their understanding of classroom commands and corresponding actions:
 
 1. Command Chain: Form a circle with the students. Start by giving a command and performing the corresponding action. The student to your right then gives a new command to the next student, who performs the action, and so on. The chain continues until all students have had a chance to give a command and perform an action.
     
@@ -235,17 +132,10 @@ Certainly! Here are some examples of interactive practice activities for student
 
 These interactive activities encourage active participation, listening comprehension, and quick response while reinforcing the vocabulary and actions associated with classroom commands. Feel free to adapt these activities or create variations that suit your students' preferences and the learning environment.
 
-* * *
+---
+> Please provide a long list of commands and command cards
 
-**You:**
-
-Please provide a long list of commands and command cards
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a long list of commands that you can use for your interactive practice activities. You can print these commands on individual command cards or write them down for students to use during the activities:
+Here's a long list of commands that you can use for your interactive practice activities. You can print these commands on individual command cards or write them down for students to use during the activities:
 
 1. Stand up
 2. Sit down
@@ -297,21 +187,6 @@ Certainly! Here's a long list of commands that you can use for your interactive 
 48. Tidy up the classroom
 49. Sing a song
 50. Dance
-
-Feel free to add or modify these commands based on the specific needs and context of your classroom. Additionally, you can create more specific commands related to your ongoing lessons or thematic units to further enhance vocabulary acquisition and engagement during the activities.
-
-* * *
-
-**You:**
-
-Please continue with more commands
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here are some more commands to add to the list:
-
 51. Read a sentence
 52. Draw a picture
 53. Listen to the audio
@@ -352,21 +227,6 @@ Certainly! Here are some more commands to add to the list:
 88. Make a peace sign
 89. Make a thumbs-up sign
 90. Cross your arms
-
-Remember, you can adapt and modify this list of commands to align with your specific teaching objectives and student needs. Feel free to include commands that are relevant to your current lessons or classroom routines.
-
-* * *
-
-**You:**
-
-Please continue with more commands 
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here are some more commands to add to the list:
-
 91. Give a high-five
 92. Wink your eye
 93. Spin around
@@ -408,4 +268,4 @@ Certainly! Here are some more commands to add to the list:
 129. Pretend to be a chef cooking a meal
 130. Pretend to be a news reporter
 
-Remember, you can adapt and modify these commands to suit the needs and interests of your students. Feel free to incorporate commands that align with your lessons or classroom themes to make the activities more engaging and relevant to your curriculum.
+
