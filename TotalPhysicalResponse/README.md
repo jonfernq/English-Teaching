@@ -1,4 +1,4 @@
-# Total Physical Response (TPR) 
+## Total Physical Response (TPR) 
 
 The TPR method was developed by Dr. James J. Asher in the 1960s as an approach to teaching second languages. It emphasizes the connection between language and physical movement, aiming to engage learners in a kinesthetic and interactive learning experience.
 
