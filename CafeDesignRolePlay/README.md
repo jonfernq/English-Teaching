@@ -1,6 +1,5 @@
 ## Cafe Design & Role Play 
 
----
 ### Total Physical Response (TPR) Lesson Plan
 
 **Lesson Plan: English Language Learning with Total Physical Response (TPR) Methodology** 
@@ -63,9 +62,9 @@ Procedure:
     * Assign a short written reflection for homework, asking students to describe their ideal nature cafe experience using the vocabulary and phrases learned in class.
 
 ---
-### A creative worksheet/handout describing different areas or points of interest in the nature cafe:
+### Handout describing different areas or points of interest in the nature cafe:
 
-** Nature Cafe Guided Tour Worksheet** 
+**Nature Cafe Guided Tour Worksheet** 
 
 Welcome to our enchanting nature cafe! As a tour guide, your role is to provide an engaging and informative tour to our customers. Take a look at the different areas and points of interest in our cafe and prepare your guided tour description using the vocabulary and phrases we learned.
 
