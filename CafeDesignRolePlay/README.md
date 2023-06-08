@@ -2,7 +2,7 @@
 
 ### Total Physical Response (TPR) Lesson Plan
 
-**Lesson Plan: English Language Learning with Total Physical Response (TPR) Methodology** 
+#### Lesson Plan: English Language Learning with Total Physical Response (TPR) Methodology 
 
 Level: High school students (Thai)
 
@@ -64,19 +64,19 @@ Procedure:
 ---
 ### Handout describing different areas or points of interest in the nature cafe:
 
-**Nature Cafe Guided Tour Worksheet** 
+#### Nature Cafe Guided Tour Worksheet 
 
 Welcome to our enchanting nature cafe! As a tour guide, your role is to provide an engaging and informative tour to our customers. Take a look at the different areas and points of interest in our cafe and prepare your guided tour description using the vocabulary and phrases we learned.
 
-Area 1: The Riverside Terrace Description: The Riverside Terrace is a serene spot where you can enjoy breathtaking views of the flowing river. The soft sound of water, the rustling leaves, and the gentle breeze make it an ideal place to relax and savor your favorite beverage. Be sure to point out the colorful birds that often visit this area.
+**Area 1: The Riverside Terrace Description:** The Riverside Terrace is a serene spot where you can enjoy breathtaking views of the flowing river. The soft sound of water, the rustling leaves, and the gentle breeze make it an ideal place to relax and savor your favorite beverage. Be sure to point out the colorful birds that often visit this area.
 
-Area 2: The Forest Nook Description: Step into our enchanting forest nook, a cozy corner surrounded by tall trees and lush greenery. Here, you'll feel embraced by nature's tranquility. Encourage visitors to take a leisurely stroll along the forest path and discover hidden gems, like delicate wildflowers and playful squirrels.
+**Area 2: The Forest Nook Description:** Step into our enchanting forest nook, a cozy corner surrounded by tall trees and lush greenery. Here, you'll feel embraced by nature's tranquility. Encourage visitors to take a leisurely stroll along the forest path and discover hidden gems, like delicate wildflowers and playful squirrels.
 
-Area 3: The Animal Haven Description: The Animal Haven is a delightful space where various friendly animals find their home. Visitors can watch our adorable rabbits munching on fresh vegetables, observe the graceful movements of our resident deer, and even feed the curious goats. Make sure to emphasize the importance of respecting and appreciating these wonderful creatures.
+**Area 3: The Animal Haven Description:** The Animal Haven is a delightful space where various friendly animals find their home. Visitors can watch our adorable rabbits munching on fresh vegetables, observe the graceful movements of our resident deer, and even feed the curious goats. Make sure to emphasize the importance of respecting and appreciating these wonderful creatures.
 
-Area 4: The Buffalo Meadow Description: In the Buffalo Meadow, you'll encounter majestic water buffaloes grazing peacefully in the open fields. Share interesting facts about these gentle giants and highlight their vital role in traditional Thai agriculture. Visitors can also witness buffalo feeding sessions and capture memorable photographs.
+**Area 4: The Buffalo Meadow Description:** In the Buffalo Meadow, you'll encounter majestic water buffaloes grazing peacefully in the open fields. Share interesting facts about these gentle giants and highlight their vital role in traditional Thai agriculture. Visitors can also witness buffalo feeding sessions and capture memorable photographs.
 
-Area 5: The Rice Field Terrace Description: Our Rice Field Terrace offers a glimpse into the rich agricultural heritage of Thailand. Surrounded by vibrant green rice paddies, this area showcases the hard work and dedication of local farmers. Explain the rice cultivation process and how it contributes to the country's staple food. On special occasions, visitors can even try their hand at traditional rice planting.
+**Area 5: The Rice Field Terrace Description:** Our Rice Field Terrace offers a glimpse into the rich agricultural heritage of Thailand. Surrounded by vibrant green rice paddies, this area showcases the hard work and dedication of local farmers. Explain the rice cultivation process and how it contributes to the country's staple food. On special occasions, visitors can even try their hand at traditional rice planting.
 
 Remember to use descriptive language, gestures, and TPR techniques to make the tour engaging and accessible to all. Incorporate the vocabulary we learned and add your own creative touch to bring the scenic surroundings of our nature cafe to life!
 
