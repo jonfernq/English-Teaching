@@ -68,6 +68,8 @@ Procedure:
 
 Welcome to our enchanting nature cafe! As a tour guide, your role is to provide an engaging and informative tour to our customers. Take a look at the different areas and points of interest in our cafe and prepare your guided tour description using the vocabulary and phrases we learned.
 
+[ยินดีต้อนรับสู่คาเฟ่ธรรมชาติอันน่าหลงใหลของเรา! ในฐานะไกด์นำเที่ยว บทบาทของคุณคือจัดหาทัวร์ที่น่าสนใจและให้ข้อมูลแก่ลูกค้าของเรา ลองดูพื้นที่และจุดสนใจต่างๆ ในร้านกาแฟของเรา และเตรียมคำอธิบายทัวร์พร้อมไกด์ของคุณโดยใช้คำศัพท์และวลีที่เราได้เรียนรู้]
+
 **Area 1: The Riverside Terrace Description:** The Riverside Terrace is a serene spot where you can enjoy breathtaking views of the flowing river. The soft sound of water, the rustling leaves, and the gentle breeze make it an ideal place to relax and savor your favorite beverage. Be sure to point out the colorful birds that often visit this area.
 
 **Area 2: The Forest Nook Description:** Step into our enchanting forest nook, a cozy corner surrounded by tall trees and lush greenery. Here, you'll feel embraced by nature's tranquility. Encourage visitors to take a leisurely stroll along the forest path and discover hidden gems, like delicate wildflowers and playful squirrels.
