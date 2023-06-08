@@ -60,6 +60,36 @@ Procedure:
     * Recap the vocabulary and expressions learned during the lesson.
     * Ask students to share their thoughts on the importance of effective communication and customer service in a cafe setting.
     * Assign a short written reflection for homework, asking students to describe their ideal nature cafe experience using the vocabulary and phrases learned in class.
+---
+### TPR for Older Learners
+
+Is Total Physical Response (TPR) a methodology only suited to small children? If it can be used with older high school students and adults, what modifications must be made? 
+
+ChatGPT
+While Total Physical Response (TPR) is commonly associated with language learning in young children, it can also be adapted for use with older high school students and adults. TPR is based on the premise that incorporating physical movement and actions into language learning can enhance comprehension and retention.
+
+To effectively implement TPR with older learners, here are some modifications that can be made:
+
+- **Content and Language Complexity:** Choose age-appropriate and relevant content for high school students and adults. Use vocabulary, grammar, and topics that align with their interests and proficiency levels.
+
+- **Abstract Concepts:** Older learners can handle more abstract concepts compared to young children. Incorporate abstract ideas and more complex language structures into TPR activities to challenge them intellectually.
+
+- **Communication Skills:** Shift the focus from simply following commands to developing communication skills. Encourage students to use the target language to express themselves, ask questions, and engage in conversations while performing the physical actions.
+
+- **Authentic Contexts:** Design TPR activities that reflect real-world situations and contexts encountered by high school students and adults. Use role-plays, simulations, and problem-solving tasks that require language use in practical scenarios.
+
+- **Cultural Sensitivity:** Take into account cultural differences and sensitivities when designing TPR activities. Ensure that the movements and actions align with the cultural norms and appropriateness of the target language and learner's background.
+
+- **Varied Activities:** Incorporate a variety of TPR activities to cater to different learning preferences and styles. Include individual, pair, and group activities to provide opportunities for collaboration and interaction.
+
+- **Reflective Components:** Include reflection and feedback sessions after TPR activities. Encourage students to discuss their experiences, express their thoughts, and provide constructive feedback to improve their language learning process.
+
+Remember, while TPR can be adapted for older learners, it should be complemented with other language learning strategies and approaches to create a well-rounded and comprehensive learning experience.
+
+---
+### Nature Cafe: Photos & Videos
+
+- [Rice Terraces](https://www.google.com/search?q=rice+field+terraces+thailand&tbm=isch&sxsrf=APwXEdd3DTCuh_ccVnzQnvIykVg5Qeh1sw%3A1686183647986&source=hp&biw=1366&bih=625&ei=3x6BZMvVOtqWjuMP1a-qgAg&iflsig=AOEireoAAAAAZIEs79xIGr_HqQpL3dgo23MAyIEdyf9U&ved=0ahUKEwiLwfPKs7L_AhVai2MGHdWXCoAQ4dUDCAc&uact=5&oq=rice+field+terraces+thailand&gs_lcp=CgNpbWcQAzoICAAQgAQQsQM6BQgAEIAEOgsIABCABBCxAxCDAToGCAAQBRAeOgYIABAIEB46BwgAEBgQgAQ6BAgAEB5QAFixNmDmN2gBcAB4AIABgQiIAbZAkgEQMC4xNS4zLjIuMS4zLjIuMZgBAKABAaoBC2d3cy13aXotaW1n&sclient=img) 
 
 ---
 ### Handout describing different areas or points of interest in the nature cafe:
