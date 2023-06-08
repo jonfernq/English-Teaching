@@ -82,3 +82,102 @@ Welcome to our enchanting nature cafe! As a tour guide, your role is to provide 
 
 Remember to use descriptive language, gestures, and TPR techniques to make the tour engaging and accessible to all. Incorporate the vocabulary we learned and add your own creative touch to bring the scenic surroundings of our nature cafe to life!
 
+---
+> Please list some TPR commands and gestures such as 'please, follow me', 'this is...', 'over here is...', 'and over there is... ' ....    
+Here are some TPR commands and corresponding gestures you can use during the lesson:
+
+1. "Please, follow me":
+    
+    * Gesture with an open palm facing forward, motioning for students to walk behind you.
+2. "This is...":
+    
+    * Point to the object or area you are referring to with your index finger.
+3. "Over here is...":
+    
+    * Extend your arm in the direction of the object or area you are highlighting, using an open palm.
+4. "And over there is...":
+    
+    * Point with an extended arm and an open palm in the direction of the object or area you want to draw attention to.
+5. "Let's go":
+    
+    * Make a walking motion with two fingers or tap your thigh while gesturing forward.
+6. "Listen carefully":
+    
+    * Cup your hand around your ear to indicate listening.
+7. "Look":
+    
+    * Point both index fingers to your eyes, then extend them forward.
+8. "Touch":
+    
+    * Hold your hand out, palm facing up, and make a tapping motion with your fingers.
+9. "Sit down":
+    
+    * Gesture with your hand in a downward motion, palm facing the ground.
+10. "Stand up":
+    
+    * Gesture with your hand in an upward motion, palm facing the ceiling.
+11. "Repeat after me":
+    
+    * Point to your mouth, then extend your hand outwards, palm facing forward, signaling for students to imitate your speech.
+12. "Raise your hand":
+    
+    * Lift your own hand in the air, palm facing up, to encourage students to do the same.
+13. "Stop":
+    
+    * Hold up your hand, palm facing forward, in a "stop" gesture.
+14. "Take a picture":
+    
+    * Use both hands to mimic holding a camera, framing an imaginary shot.
+15. "Clap your hands":
+    
+    * Bring your palms together and clap them.
+
+16. "Open":
+    
+    * Extend both hands in front of you, palms facing up, and then move your hands apart, simulating the action of opening something.
+17. "Close":
+    
+    * Extend both hands in front of you, palms facing each other, and then bring your hands together, simulating the action of closing something.
+18. "Eat":
+    
+    * Mime bringing food to your mouth and taking a bite.
+19. "Drink":
+    
+    * Mime holding a cup or glass with one hand and tilting it towards your mouth.
+20. "Smell":
+    
+    * Bring your hand or fingers close to your nose and inhale as if smelling something.
+21. "Write":
+    
+    * Pretend to hold a pen or pencil and make writing motions in the air or on an imaginary surface.
+22. "Read":
+    
+    * Gesture holding a book or paper in front of you and move your finger or eyes from left to right as if reading.
+23. "Speak":
+    
+    * Point to your mouth or lips, then extend your hand outwards, palm facing forward, signaling for students to speak.
+24. "Think":
+    
+    * Tap your index finger against your temple as if pondering or deep in thought.
+25. "Sleep":
+    
+    * Rest your head on your hands, mimicking sleeping.
+26. "Wake up":
+    
+    * Open your eyes wide and raise your hands from your head, symbolizing waking up.
+27. "Hurry up":
+    
+    * Make a swift, waving motion with one or both hands, signaling urgency.
+28. "Be quiet":
+    
+    * Press your index finger against your lips in a shushing gesture.
+29. "Ask a question":
+    
+    * Raise your hand, palm facing up, and tilt your head slightly to the side as if inquisitive.
+30. "Celebrate":
+    
+    * Raise your hands above your head and move them in a celebratory motion.
+
+Remember to use these TPR commands and gestures in conjunction with the specific instructions and vocabulary relevant to the nature cafe and customer service. Adapt them as needed to suit the context of your lesson and the needs of your students.
+
+
