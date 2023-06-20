@@ -1,12 +1,6 @@
 ## Charades
 
-**You:**
-
-<div>How would use the game of charades in a Thai classroom to teach ENglish vocabulary? </div>
-
-* * *
-
-**ChatGPT:**
+<div>How would use the game of charades in a Thai classroom to teach English vocabulary? </div>
 
 Using the game of charades in a Thai classroom can be an engaging and interactive way to teach English vocabulary. Here's a step-by-step guide on how you can incorporate charades into your English language lessons:
 
@@ -33,15 +27,8 @@ Using the game of charades in a Thai classroom can be an engaging and interactiv
 
 By incorporating charades into your English lessons, you make the learning process more interactive, engaging, and memorable for your Thai students. It helps them practice vocabulary in a fun and creative way, while also encouraging teamwork and communication skills.
 
-* * *
-
-**You:**
-
-<div>PLease provide 100 words that are good to teach with charades and the Total Physical Response (TPR) methodology.</div>
-
-* * *
-
-**ChatGPT:**
+---
+<div>Please provide 100 words that are good to teach with charades and the Total Physical Response (TPR) methodology.</div>
 
 Certainly! Here's a list of 100 words that can be effectively taught using charades and the Total Physical Response (TPR) methodology:
 
