@@ -1,6 +1,7 @@
 ## Total Physical Response (TPR) 
 
 - ['Simon Says' Game](https://github.com/jonfernq/English-Teaching/blob/main/TotalPhysicalResponse/SimonSays.md)
+- [Charades Game](https://github.com/jonfernq/English-Teaching/blob/main/TotalPhysicalResponse/Charades.md)
 - [Total Physical Response (TPR) Games](https://github.com/jonfernq/English-Teaching/blob/main/TotalPhysicalResponse/TPRGames.md)
  
 The TPR method was developed by Dr. James J. Asher in the 1960s as an approach to teaching second languages. It emphasizes the connection between language and physical movement, aiming to engage learners in a kinesthetic and interactive learning experience.
