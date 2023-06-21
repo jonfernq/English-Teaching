@@ -133,20 +133,6 @@ Certainly! Here's a list of 100 words that can be effectively taught using chara
 99. Sing
 100. Act
 
-These words cover a range of actions, verbs, and daily activities that can be effectively taught through charades and TPR.
-
-* * *
-
-**You:**
-
-<div>please list 100 more words </div>
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's an additional list of 100 words that can be taught using charades and the Total Physical Response (TPR) methodology:
-
 1. Breathe
 2. Blow
 3. Catch
@@ -247,20 +233,6 @@ Certainly! Here's an additional list of 100 words that can be taught using chara
 98. Listen
 99. Follow
 100. Lead
-
-These words cover various physical actions, gestures, and cognitive activities that can be effectively taught using charades and TPR.
-
-* * *
-
-**You:**
-
-<div>please list 100 more words </div>
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's an additional list of 100 words that can be taught using charades and the Total Physical Response (TPR) methodology:
 
 1. Puzzle
 2. Guess
