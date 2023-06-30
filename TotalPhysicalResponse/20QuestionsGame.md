@@ -2,11 +2,9 @@
 
 In a classroom full of Thai high school students, how might one play the game of 20 questions to learn vocabulary, with teams, for instance? 
 
-* * *
+---
 
-**ChatGPT:**
-
-Playing the game of 20 questions in a Thai high school classroom can be an engaging way to learn vocabulary. Here's a suggested approach for playing the game with teams:
+> Playing the game of 20 questions in a Thai high school classroom can be an engaging way to learn vocabulary. Here's a suggested approach for playing the game with teams:
 
 1. Divide the class into two or more teams. Each team should have an equal number of students.
     
@@ -29,17 +27,11 @@ Playing the game of 20 questions in a Thai high school classroom can be an engag
 
 To make the game more educational, you can select vocabulary words or phrases that align with the students' current lessons or language proficiency level. Additionally, you can encourage students to ask questions in Thai to practice their language skills while playing the game.
 
-* * *
+---
 
-**You:**
+> Make a list of things in the room or on the student that could be used for the word to guess in the above game of 20 questions. I guess words of things not in the room could also be used? 
 
-Make a list of things in the room or on the student that could be used for the word to guess in the above game of 20 questions. I guess words of things not in the room could also be used? 
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a list of things that could be used for the word to guess in the game of 20 questions in a Thai high school classroom:
+Here's a list of things that could be used for the word to guess in the game of 20 questions in a Thai high school classroom:
 
 1. Whiteboard
 2. Chalkboard
@@ -71,15 +63,8 @@ These are just a few examples of items that could be used for the game. It's als
 
 Feel free to mix and match items from the room with words from outside to keep the game interesting and engaging for the students.
 
-* * *
-
-**You:**
-
-What about the game 'I Spy' in the ENglish learning classroom? 
-
-* * *
-
-**ChatGPT:**
+---
+> What about the game 'I Spy' in the ENglish learning classroom? 
 
 The game "I Spy" can be a fun and interactive activity for an English learning classroom. It encourages students to practice their observational and descriptive skills while also reinforcing vocabulary. Here's how you can incorporate "I Spy" into your English learning classroom:
 
@@ -99,20 +84,12 @@ The game "I Spy" can be a fun and interactive activity for an English learning c
     
 8. Repeat the process with different objects, allowing different students to take turns as the "spymaster" who selects and describes the objects.
     
-
 By playing "I Spy" in an English learning classroom, students can actively engage with vocabulary, practice their listening and speaking skills, and develop their ability to describe objects using English words and phrases. It's an enjoyable way to reinforce vocabulary and promote language learning in a dynamic and interactive manner.
 
-* * *
+---
+> Please provide a list of words for use in I Spy
 
-**You:**
-
-Please provide a list of words for use in I Spy
-
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a list of words that can be used for playing "I Spy" in an English learning classroom:
+Here's a list of words that can be used for playing "I Spy" in an English learning classroom:
 
 1. Chair
 2. Table
