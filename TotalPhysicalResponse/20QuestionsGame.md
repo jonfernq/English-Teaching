@@ -175,15 +175,10 @@ The game "Categories" is an engaging way to practice vocabulary and foster quick
 
 "Categories" is an enjoyable and competitive game that encourages students to recall and produce vocabulary within specific themes. It promotes quick thinking and enhances students' knowledge of word associations. Additionally, it can be easily adapted to suit different proficiency levels by adjusting the complexity of the chosen categories or providing hints if needed.
 
-* * *
+---
+### Pictionary: 
 
-**You:**
-
-What about the game pictionary in the English language classroom? 
-
-* * *
-
-**ChatGPT:**
+> What about the game Pictionary in the English language classroom? 
 
 Playing Pictionary in the English language classroom can be a fantastic way to engage students, encourage creativity, and reinforce vocabulary. Here's how you can incorporate Pictionary into your lessons:
 
@@ -210,17 +205,10 @@ Playing Pictionary in the English language classroom can be a fantastic way to e
 
 Pictionary in the English language classroom encourages students to think creatively, communicate effectively, and reinforce their vocabulary skills. It also provides an opportunity for collaborative learning as teammates work together to guess the drawings. Additionally, it can be an excellent activity for practicing English descriptions and enhancing listening skills as students try to understand and interpret their teammates' visual representations.
 
-* * *
-
-**You:**
-
+---
 Please provide a list of vocabulary words and phrases to use with pictionary 
 
-* * *
-
-**ChatGPT:**
-
-Certainly! Here's a list of vocabulary words and phrases suitable for playing Pictionary in the English language classroom:
+Here's a list of vocabulary words and phrases suitable for playing Pictionary in the English language classroom:
 
 1. Dog
 2. Cat
@@ -244,11 +232,202 @@ Certainly! Here's a list of vocabulary words and phrases suitable for playing Pi
 20. Guitar
 
 These words cover a range of common objects and concepts that can be easily represented through drawings. You can tailor the list to suit the proficiency level and interests of your students. Feel free to add words or phrases related to specific topics you are studying in class or adjust the difficulty level based on your students' abilities.
+---
+
+**You:**
+
+please make a list of words that can be used in a game of pictionary for English language learners, that are suitable for drawing pictures to describe on the board
+
+* * *
+
+**ChatGPT:**
+
+Sure! Here's a list of words that are suitable for a game of Pictionary for English language learners:
+
+1. Cat
+2. Dog
+3. Tree
+4. House
+5. Car
+6. Sun
+7. Moon
+8. Flower
+9. Book
+10. Chair
+11. Ball
+12. Apple
+13. Hat
+14. Bird
+15. Clock
+16. Banana
+17. Bed
+18. Smile
+19. Star
+20. Fish
+21. Cake
+22. Bicycle
+23. Rain
+24. Bridge
+25. Hat
+26. Shoes
+27. Rabbit
+28. Cup
+29. Guitar
+30. Plane
+31. Train
+32. Beach
+33. Robot
+34. Pizza
+35. Butterfly
+36. Toothbrush
+37. Chair
+38. Elephant
+39. Hat
+40. Spider
+41. Ice cream
+42. Key
+43. Tree
+44. Turtle
+45. Sunflower
+46. Helicopter
+47. Football
+48. Spider web
+49. Camera
+50. Music
+
+These words should provide a good mix of common objects and concepts that can be easily represented through drawings. Feel free to add or remove words based on the proficiency level of the English language learners you'll be playing with.
 
 * * *
 
 **You:**
 
+Please provide some more good words.
+
+* * *
+
+**ChatGPT:**
+
+Certainly! Here are some more words for your game of Pictionary:
+
+51. Beach ball
+52. Pizza slice
+53. Rainbow
+54. Snowflake
+55. Sunglasses
+56. Jellyfish
+57. Cupcake
+58. Soccer ball
+59. Hot air balloon
+60. Toothpaste
+61. Suitcase
+62. Camera
+63. Watermelon
+64. Spider web
+65. Lightning
+66. Lighthouse
+67. Pineapple
+68. Sailboat
+69. Fireworks
+70. Cactus
+71. Ice skates
+72. Palm tree
+73. Compass
+74. Tornado
+75. Paintbrush
+76. Hamburger
+77. Sunflower
+78. Butterfly
+79. Scissors
+80. Bridge
+81. Kangaroo
+82. Waterfall
+83. Rainbow
+84. Telescope
+85. Crown
+86. Snail
+87. Cellphone
+88. Soccer goal
+89. Puzzle
+90. Snowman
+91. T-shirt
+92. Backpack
+93. Lemonade
+94. Rocket
+95. Castle
+96. Wristwatch
+97. Pinecone
+98. Dinosaur
+99. Bicycle
+100. Sandcastle
+
+These additional words should offer more variety and opportunities for creative drawings in your game of Pictionary. Have fun playing!
+
+* * *
+
+**You:**
+
+please  provide more good words.
+
+* * *
+
+**ChatGPT:**
+
+Of course! Here are some more words for your game of Pictionary:
+
+101. Mountain
+102. Rainbow
+103. Firefighter
+104. Popcorn
+105. Giraffe
+106. Bowling
+107. Kangaroo
+108. Paint
+109. Music
+110. Dragon
+111. Airplane
+112. Snowflake
+113. Penguin
+114. Robot
+115. Surfing
+116. Mermaid
+117. Spider
+118. Circus
+119. Pizza
+120. Monkey
+121. Fairy
+122. Baseball
+123. Elephant
+124. Camera
+125. Birthday
+126. Ghost
+127. Tennis
+128. Astronaut
+129. Volleyball
+130. Rainbow
+131. Ice cream
+132. Wizard
+133. Pizza
+134. Pirate
+135. Ballet
+136. Soccer
+137. Guitar
+138. Castle
+139. Fishing
+140. Bicycle
+141. Scuba diving
+142. Superhero
+143. Cupcake
+144. Hippo
+145. Telescope
+146. Dolphin
+147. Cowboy
+148. Statue
+149. Unicorn
+150. Beach
+
+These additional words should give you even more options to play a fun and engaging game of Pictionary. Enjoy your game!
+
+---
 What about phrases? 
 
 * * *
